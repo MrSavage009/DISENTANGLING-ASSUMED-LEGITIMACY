@@ -1361,7 +1361,7 @@ The argument is defeasible. It should be narrowed or revised under the following
 
 1. **Premise experiment (H1a):** If controlled experiments find no meaningful difference between "premise" and matched neutral labels, the paper should not claim a direct lexical legitimizing effect. It may retain F3, F4, and F9a as argumentative findings but not an audience effect.
 2. **Reason experiment (H1b):** If "reason" does not increase justificatory judgments relative to matched causal descriptions, the argument should focus on semantic ambiguity and equivocation rather than a measured psychological effect.
-3. **Burden-shifting experiment (RQ3):** If premise designation does not shift perceived locus of justification, F9b remains an argued finding but the paper should not claim that the shift is experienced by audiences. *This is the defeater most specific to the paper's distinctive extension.*
+3. **Burden-shifting experiment (RQ3):** If premise designation does not shift perceived locus of justification, F9b remains an argued finding but the paper should not claim that the shift is experienced by audiences. This is the defeater most specific to the paper's distinctive extension.
 4. **Institutional corpus:** If representative corpus analysis shows that premises are usually explicitly provisional, accompanied by evidence, and routinely open to challenge, the claim of unexamined foundational authority should be narrowed to particular contexts.
 5. **Falsifiability corpus:** If textbooks and institutions consistently present falsifiability as one criterion among several, and there is little evidence of exclusionary shorthand, the gatekeeper hypothesis should be restricted to identifiable settings.
 6. **Alternative labels:** If "hypothesis," "claim," "principle," or "scientific" produces the same or stronger effects, the theoretical explanation should shift from the specific words to the broader category of authority-signalling labels.
@@ -1552,7 +1552,7 @@ The strong form of this reading is what the vernacular calls brainwashing. The v
 
 The coda is compatible with the body and depends on none of it; but if any strength is established, the body is not untouched. If the first strength: the corpus (F3) becomes a record of settlement cues, and F9c was never only a fact about arguments. If the second: the four burdens (§3.6.2) acquire a mechanism — the conversational burden is the common ground's repair cost, and "the challenger is made late" becomes a consequence of accommodation rather than an observation of practice. If the third: the asymmetry (§8.4) changes scale — the paper's typological thesis becomes one instance of a general economy of unaskability, and the paper's own refusal to psychologize becomes legible as the discipline of a culture that has learned to keep its questions small. The coda states these re-reads so that the reader knows what the reading would buy. None of them is a correction. The body's findings are compatible with all three strengths and depend on none.
 
-## Coda 3 — The price
+## Coda 3 — What the reading would cost
 
 The coda's discipline is that every strength must be priced. What would support it? What would defeat or narrow it? The pricing table is the coda's equivalent of the body's defeat conditions. It is where the reading becomes specific enough to be refused.
 
@@ -1588,9 +1588,7 @@ One rule governs promotion. The reading may enter the paper's argumentative stru
 
 The paper has argued that the premise slot can remove a proposition from the argument's examination. The stronger reading is that, often enough, it removes the examination from the hearer. The first claim is this paper's. The second is stated here, and not claimed, so that when it is finally tested it will not already have been anyone's premise.
 
-## Coda 5 — The final reflexivity exercise
-
-Somewhere in §1, the reader took on board that misplaced position is a distinct failure mode. Somewhere in §2, the reader took on board that classification is not validation. Somewhere in §3, the reader took on board that premise designation positions a proposition, shifts the burden, and removes it from examination. Each was argued; but the reader did not wait for the arguments. The reader took them as the paper's starting points — which is to say, as premises — and proceeded from them.
+There remains one exercise, offered to the reader rather than claimed. The reflexive examination (§7.7) asked whether the paper had used its own designations — finding, argued, hypothesis — to make its claims appear more established than they are. That question had an addressee: the paper. It has another. Somewhere in §1, the reader took on board that misplaced position is a distinct failure mode. Somewhere in §2, the reader took on board that classification is not validation. Somewhere in §3, the reader took on board that premise designation positions a proposition, shifts the burden, and removes it from examination. Each was argued; but the reader did not wait for the arguments. The reader took them as the paper's starting points — which is to say, as premises — and proceeded from them.
 
 If the stronger reading is right, then the reader's passage through this paper is its cleanest exhibit. The reader has been accommodating the paper's designations while reading. The paper's findings have entered the reader's background, and the reader has proceeded from them. The paper cannot know whether this happened. Only the reader can check.
 
