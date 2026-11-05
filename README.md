@@ -1,40 +1,36 @@
 # Disentangling Assumed Legitimacy: Classification, Attributed Authority, and the Burden of Justification
 
-*A philosophical argument with empirical documentation, a retained historical reconstruction, a reflexive examination, and a specified experimental extension*
+*A philosophical argument with empirical documentation, a retained historical reconstruction, a reflexive examination, a specified experimental extension, and a proposed framework*
 
-**Version 10.1 — dialogical register removed. The architecture, findings, verified citation apparatus, and structural revisions are those of V10.0. The three reproduced texts now stand as declarative prose: the second-person address to an interlocutor, the first-person formulations of counsel, and the framing of each text as a response to a specific position have been replaced with assertions. The substantive content — examples, qualifications, order, and conclusions — is unchanged. Disclosures: Note on the Texts; Appendix F.2, F.6.**
+**Version 15.3 — The Coda, priced and measured; Part III completed.** The substance is V14.2's: the Coda between §9 and the appendices; the three-strength cascade (charm, accommodation, frame); the anchors table with the one-step rule; the placement self-audit (Coda 1.5); the "no manipulator" argument (Coda 2.4); the re-reads (Coda 2.5); the pricing table (Coda 3); the four reasons not to claim (Coda 4); the final reflexivity exercise; the seven forward references in the body (§1.6, §2.4, §3.6.3, §6.4, §7.4, §7.7, §8.4); and reference entries 43–46. V15.3 makes four integrations: (1) V14.0's three concrete measures for the accommodation strength, folded into Coda 3's pricing table and not formalized as a research question; (2) Coda 1's clarifying sentence on the relation between "no evidential weight as stated" and "if established the body is not untouched"; (3) Appendix E5's head note on the numbering across E5 and E6; and (4) the Part III bridges — the Duhem–Quine problem (new §5.5a), Kuhn and Lakatos named in §5.10, Popper's historical motivation in §5.2, and a three-position summary table in §5.7 — which restore what V13's reproduced Popper text had and V14.2's synthesis dropped. V14.2's references to the removed §10, RQ4, and Appendix C5 are updated to point to the Coda or reworded; the specific updates are listed in Appendix F.6. No finding, hypothesis, defeater, interpretive rule, or reference entry is altered. The Coda remains subject to the deletion test and the promotion rule (Coda 4).
 
 ---
 
 ## Note on the Texts
 
-Three texts are reproduced in §§3.2, 4.2, and 5.2 from the author's source files `premise.txt`, `reason.txt`, and `karl popper falsification.txt`. Four changes have been applied to each source.
+Two texts are reproduced in §§3.2 and 4.2 from the author's source files `premise.txt` and `reason.txt`. The Popper material in §5.2 is the author's synthesis of the literature and the author's position, presented as authorial prose rather than as a reproduction. The paper reproduces the premise and reason texts because they are the author's own presentations in their original form; it synthesises the Popper material because that material is the author's position developed through the literature.
+
+Three changes have been applied to each of the two reproduced texts.
 
 **(1) Heading markup** has been demoted by two levels so that each text nests within the manuscript's hierarchy; the wording of every heading is unchanged.
 
-**(2) Display-mathematical passages** of the third text have been converted from `\\[ ... \\]` to `$$ ... $$` for rendering; the mathematical content is unchanged.
+**(2) The image placeholders** that travelled with the texts when they were first copied — the favicon links, the domain captions, and the search-engine result tallies — have been removed. They were the marks of a copy operation, not part of the argument, and are not treated as evidence.
 
-**(3) The image placeholders** that travelled with the texts when they were first copied — the favicon links, the domain captions, and the search-engine result tallies — have been removed. They were the marks of a copy operation, not part of the argument, and are not treated as evidence.
+**(3) The dialogical register** has been removed. The source files were drafted as counsel addressed to a specific interlocutor: they used the second person, the first person of counsel, and the framing of the text as a reply to a position already stated. These constructions have been replaced with declarative statements of the same content. The examples, qualifications, order, and conclusions are unchanged.
 
-**(4) The dialogical register** has been removed. The source files were drafted as counsel addressed to a specific interlocutor: they used the second person ("your position," "you mentioned"), the first person ("I think," "my interpretation," "I would distinguish"), and the framing of the text as a reply to a position already stated. These constructions have been replaced with declarative statements of the same content. The examples, qualifications, order, and conclusions are unchanged. The argument is the author's; only the address has been removed.
-
-The comparison record is in Appendix F.2.
+The comparison record for the two reproduced texts is in Appendix F.2.
 
 ---
 
 ## Abstract
 
-This paper examines how a proposition, explanation, or methodological criterion can acquire *attributed authority* that exceeds what has been independently demonstrated. It distinguishes three mechanisms — the lexical-pragmatic role assigned by *premise*, the semantic movement among causal, explanatory, motivational, and justificatory senses of *reason*, and the elevation of falsifiability from a methodological criterion into a broader test of epistemic standing — and introduces a three-tier vocabulary: **designated authority** (the authority a classification implies or suggests), **attributed authority** (the authority a recipient infers), and **demonstrated authority** (the authority that independent evidence and argument support).
+This paper argues that three classification practices — the designation of a proposition as a *premise*, the description of an occurrence as *the reason* for a decision, and the use of *falsifiability* as a test of scientific standing — share a single structure: a designation is mistaken for a demonstration. The paper names the structure **attributed authority**, distinguishes it from **designated authority** and **demonstrated authority**, and argues that the passage from designation to attribution is the mechanism by which classification is mistaken for validation.
 
-The paper establishes two philosophical findings: that classification is not validation (F8), and that designating a proposition as a premise can, in documented argumentative practice, shift the conversational or institutional burden of justification toward those who would challenge it (F9). It supports these findings with lexicography and formal logic, a purposive corpus of sixteen institutional cases, philosophy of action, a historical reconstruction of falsificationism, and a reflexive examination of the paper's own assumptions. The corpus demonstrates a range of uses, not their prevalence.
+The paper makes four contested claims. First, that premise designation operates not only on the credibility of a proposition but on its *procedural position*: a contestable proposition moved into the premise slot is removed from the space of things requiring justification, and the burden of justification shifts toward those who would challenge it. The paper names this operation **premise-laundering**. Second, that falsifiability is a classification criterion, not a validation criterion: the criterion classifies statements as belonging to the class of empirically testable theories, and it does not establish their truth, explanatory power, or scientific validity. Science does not need to be falsifiable to be valid. Treating falsifiability as a condition of validity mistakes classification for validation. The paper's positive contribution is a **level-sensitive framework** that specifies which criteria apply at which level. Third, that the correction of attributed authority does not require demonstrating the proposition's truth but reopening its procedural position. Fourth, that the three mechanisms are not symmetrical: premise-laundering can be corrected within an argument, gatekeeping cannot be corrected at all, because the argument is never admitted.
 
-A separate part develops a five-stage psychological model (designation → presentation → audience inference → attributed legitimacy → downstream response) and specifies three untested extensions: H1a (whether the premise label raises perceived foundational legitimacy and shifts perceived burden allocation), H1b (whether the reason label raises perceived normative justification), and RQ3 (whether premise designation shifts perceived locus of justification). The audience-inference stage is split into a foundational/credibility inference and a burden-allocation inference; H1a is stated as two distinguishable predictions, so that a positive result on either can be interpreted separately from a positive result on the other. Adjacent psychological research — on presupposition, normative wording, reason-giving, source credibility, and institutional legitimacy — motivates these extensions without establishing them.
+The paper supports these claims with lexicography and formal logic, a purposive corpus of sixteen institutional cases, a historical reconstruction of falsificationism, and a reflexive examination of its own assumptions. It specifies two untested hypotheses (H1a, H1b) and one research question (RQ3), with the interpretation of every possible experimental result stated in advance. The hypotheses are extensions, not foundations: their failure would not affect the paper's argument.
 
-The paper distinguishes the philosophical argument from two companion inquiries: one on legibility bias, which examines the institutional analogue of the mechanism; and one on the psychological conditions of reception, which the five-stage model is designed to inform. Neither companion is a prerequisite for the paper's conclusion.
-
-The three original reasoning trajectories supplied by the author are reproduced from their individual source files. The changes applied to them are disclosed in the Note on the Texts; the substantive content is unchanged.
-
-The governing principle is not that technical terms are inherently manipulative, that explanations are inherently legitimizing, or that falsification is useless. It is that a designation, explanatory role, or methodological criterion must not be mistaken for an independent demonstration of the truth, soundness, or legitimacy of what it classifies.
+The paper closes with a Coda, which states a stronger reading of the premise findings — the charm, accommodation, and frame strengths — as a reading, not a finding, priced against what would establish it and what would defeat it. The findings of §§3–9 do not depend on the Coda's acceptance.
 
 ---
 
@@ -42,13 +38,14 @@ The governing principle is not that technical terms are inherently manipulative,
 
 - §1 — Introduction: the architecture of assumed legitimacy
 - §2 — Findings, propositions, and hypotheses
-- §3 — Part I: Premise (reproduced text; burden-shifting; corpus)
+- §3 — Part I: Premise (reproduced text; premise-laundering; corpus)
 - §4 — Part II: Reason (reproduced text; supplementary analysis)
-- §5 — Part III: Karl Popper (reproduced text; supplementary engagement)
+- §5 — Part III: Karl Popper and criterion elevation
 - §6 — Psychological legitimization
 - §7 — Reflexive examination
 - §8 — Synthesis
 - §9 — General conclusion
+- Coda — The stronger reading, stated and not claimed
 - Appendix A — Institutional corpus codebook
 - Appendix B — Research design and evidential limits
 - Appendix C — Experimental protocols
@@ -60,17 +57,17 @@ The governing principle is not that technical terms are inherently manipulative,
 
 # §1 — Introduction: The Architecture of Assumed Legitimacy
 
-## 1.1 The question beneath the terminology
+## 1.1 The thesis
 
 In a courtroom, a proposition is called a legal premise and becomes part of a chain of judicial reasoning. In an academic paper, a proposition is called a theoretical premise and guides the design of a study. In public administration, a recommendation begins from a premise about what citizens need or what a government should prioritize. In each case the term has a legitimate function. In each case the proposition occupying it may be true, false, uncertain, or useful only for a limited purpose. And in each case the question is not whether the function exists, but whether the authority of the function can be mistaken for the adequacy of the proposition occupying it.
 
-A word is not only a dictionary entry. It is also a social instrument used in recurrent settings. The designation tells us something about how the proposition is being used. It does not, by itself, settle the proposition's truth. The distinction is elementary when stated plainly, yet difficult to preserve in actual reasoning because labels do not arrive without histories, conventions, and institutional associations.
+The paper's thesis is not that arguments fail *more often* by position than by content — a claim about relative frequency, which would require a representative sample of arguments and a coding scheme for failure mode. The paper has neither. The thesis is conceptual: **misplaced position is a distinct failure mode** that the theoretical literature has not adequately theorised, and the three mechanisms examined in this paper are three ways it occurs.
 
-This inquiry holds two thoughts together. First, technical terms should be used accurately. A premise is not simply any sentence that happens to appear earlier in a text; in an argument, it is offered as support for a conclusion. A reason is not simply a chronological predecessor; it can be a cause, motive, explanation, or normative consideration. Falsifiability is not a synonym for truth; it describes a relation between a claim and possible empirical counter-evidence. Second, correct classification does not complete the work of justification. A proposition may be correctly identified as a premise and still be false. A causal explanation may be correct and still fail to justify the action it explains. A theory may be falsifiable and still be unsupported, poorly measured, or explanatorily weak.
+The comparison to content-failure is a provocation, not a claim: it locates the paper's contribution against a literature that has over-weighted content. The literature on premise acceptability, on reasons and causes, on the demarcation of science — each asks whether a claim is *good of its kind*. The present paper asks a prior question: whether the claim is in the *right position* to be assessed. Whether position-failure is more or less frequent than content-failure is a question the paper does not attempt to answer.
 
-The central problem is a possible passage from function to status: from "this proposition is being used as a premise" to "this proposition is a sound foundation"; from "this factor explains the event" to "this factor justifies the event"; from "this criterion helps test empirical theories" to "this criterion determines which ideas deserve serious consideration." These transitions are not logically automatic. A further passage is possible: from "this proposition is the starting point" to "the burden now falls on those who would challenge it." When these transitions occur without being made explicit, the reader may be invited to accept more than the terminology or method has established.[^1]
+**What the paper does not claim.** The paper does not claim that content does not matter. A false premise in the premise position is still false. The paper does not claim that position is independent of content: a proposition that is obviously false cannot be laundered by moving it into the premise position; the audience will notice. The mechanism operates on propositions that are contestable — plausible enough to pass, not plausible enough to survive examination. The paper also does not claim that the literature is unaware of position. It claims that the literature has not theorised position as a distinct *dimension* of argumentative failure, with criteria of its own. The three-tier vocabulary (§2.3) and the four-burden distinction (§3.6.2) are offered as steps toward that theorisation.
 
-[^1]: The three reproduced texts in §§3.2, 4.2, and 5.2 are taken from the individual source files `premise.txt`, `reason.txt`, and `karl popper falsification.txt`. The four changes applied to them are disclosed in the Note on the Texts; the substantive content is unchanged. The present version adds the findings statement (§2), the burden-shifting finding (F9; §3.6), the three-tier authority vocabulary (§§2.2–2.3, 6.2), the five-stage psychological model with split audience inference (§6.3), the split hypotheses H1a/H1b and the research question RQ3 (§2.6), the consolidated interpretation of possible results (§6.10), the reflexive examination (§7), the sixteen-case corpus with Locator Key (§3.4), the experimental protocols (Appendix C), the formalization (Appendix D), and the integrity records (Appendix F). V9.1 added the source-verification audit of the flagged citations. V10.0 applied the methodological revision. V10.1 removed the dialogical register from the three texts.
+**The three mechanisms as three sites.** The three mechanisms are not three independent findings. They are three sites where the same structure can be observed. The premise site is the argumentative site: the proposition's position within an argument. The reason site is the semantic site: the movement between explanatory and normative senses of a word. The falsifiability site is the methodological site: the level at which a criterion is applied. The paper argues that the third site is the most consequential, because it operates at admission rather than at conclusion, and because it has no internal corrective. This is the asymmetry claim (§8.4).
 
 ## 1.2 Classification and validation
 
@@ -89,8 +86,6 @@ Four questions discipline the analysis, and no one of them settles the next. Fir
 
 Evidence at one level does not automatically establish the next. A dictionary establishes conventional meaning, not a psychological effect. A corpus example establishes a pattern of use, not a reader's response. An experiment can establish a causal effect under specified conditions, not a universal law of communication. Institutional acceptance establishes a social fact, not necessarily epistemic correctness.
 
-This discipline is central to the paper's method. It also prevents the paper from reproducing the error it criticizes. If an academic paper repeatedly uses *premise* to introduce theoretical foundations, that shows an argumentative convention. If a randomized experiment shows that a label changes credibility ratings while content is held constant, that would establish a psychological effect. If the proposition itself is then supported by evidence, that is a further and separate matter.
-
 ## 1.4 Epistemic, normative, and perceived legitimacy
 
 Three forms of legitimacy must be distinguished before the argument proceeds, because the paper's claims about attribution and burden are otherwise easily confused with claims about truth or justice.
@@ -101,61 +96,102 @@ Three forms of legitimacy must be distinguished before the argument proceeds, be
 
 The three can coincide; they need not. An audience may perceive a decision as legitimate when its normative justification is weak. A proposition may be epistemically well-supported while being unpopular. A decision may be procedurally legitimate while resting on false factual claims. The paper does not treat perception as proof of legitimacy, nor the absence of perceived legitimacy as proof of illegitimacy.
 
-The three forms also pick out different things for the paper's own investigations to be about. F8 is a claim about the passage from designation to *epistemic* and *normative* legitimacy: the classification does not establish truth or justification. F9 is a claim about the *procedural* position of the proposition, which is closest to a claim about the allocation of justificatory responsibility. H1a, H1b, and RQ3 test *perceived* legitimacy and perceived burden allocation — empirical questions about what an audience infers, not about what is in fact justified.
+The three forms also pick out different things for the paper's own investigations to be about. F8 is a claim about the passage from designation to *epistemic* and *normative* legitimacy. F9b and F9c are claims about the *procedural* position of the proposition. F10 is a claim about the logical relation between two properties of a statement. H1a, H1b, and RQ3 test *perceived* legitimacy and perceived burden allocation — empirical questions about what an audience infers, not about what is in fact justified.
 
-## 1.5 Three mechanisms
+## 1.5 The falsifiability critique, stated directly
+
+The paper argues that falsifiability is a classification criterion, not a validation criterion, and that treating it as the latter mistakes classification for validation. The argument does not depend on any claim about institutional practice. It is a claim about the logical relation between two properties.
+
+Falsifiability is a property of the logical form of a statement: it excludes some possible observations. Validity is a property of the epistemic status of a claim: it is well-supported, true, explanatory, or otherwise warranted. These are different kinds of property. A statement can be falsifiable and false; a statement can be unfalsifiable and true. If the properties were the same, the first case would be impossible. It is not. Therefore falsifiability does not entail validity.
+
+The claim is not that falsifiability is useless. The criterion is useful for what it was designed to do: classify statements as empirically testable or not. The claim is that classification is not validation, and that the criterion cannot do work it was not designed to do. The treatment of falsifiability as a necessary condition for scientific validity is an instance of the error the paper documents. It is the instance that matters most, because it operates at the boundary of the space of reasons, where correction is least available.
+
+**What the paper is not arguing.** The paper is not arguing that falsifiability is useless. It is not arguing that Popper was wrong. It is not arguing that the crude caricature — one counterexample and the theory is dead — is the developed position. Popper's developed position is more sophisticated than the caricature, and §5.4 states this directly. The paper is arguing something narrower and more contestable: *falsifiability is a classification criterion, and no amount of sophistication in the criterion can make it a validation criterion.* Popperians will deny this. That denial is the paper's interlocutor.
+
+**The interlocutor, named.** The strongest form of the Popperian position is: the demarcation problem is the correct problem, the criterion is the correct solution to that problem, and membership in the class of empirically testable theories is what *scientific validity* means — so that classifying a statement as falsifiable is, for empirical claims, a form of validating it. The position is stated in this form by Popper's defenders in the philosophy of science, and it implies that the paper's distinction between classification and validation is, for empirical science, empty. The paper's response is in §5.4: the criterion was designed for the context of justification, not the context of discovery, and the criterion cannot do the validating work even within its proper domain. If the paper's response fails, the Popperian's denial stands.
+
+## 1.6 Three mechanisms
 
 The paper examines three mechanisms that share a family resemblance but should not be collapsed into a single process.
 
 **First: lexical-pragmatic legitimization.** The word *premise* has a defined argumentative function. It presents a proposition as support for a conclusion. That function can associate the proposition with the practices of reason-giving and justification. The hypothesis is that, in some contexts, this justificatory role may influence how the proposition is received, making it appear more established than an equivalent statement labelled an assumption or initial proposition. This is a claim about language use and possible audience interpretation, not a claim that the word's dictionary definition means "true."
 
-**Second: semantic and justificatory conflation.** The word *reason* has several senses that overlap in everyday language. "The reason the bridge closed was structural damage" is explanatory. "There is good reason to close the bridge" is justificatory. "The reason she acted was fear" may be motivational. Because the word spans these functions, discourse can slide from a causal account to an evaluation without identifying the additional normative premise required. Here the issue is not mainly a label attached to an argument; it is a semantic transition between different kinds of reasons.
+**Second: semantic and justificatory conflation.** The word *reason* has several senses that overlap in everyday language. "The reason the bridge closed was structural damage" is explanatory. "There is good reason to close the bridge" is justificatory. "The reason she acted was fear" may be motivational. Because the word spans these functions, discourse can slide from a causal account to an evaluation without identifying the additional normative premise required.
 
-**Third: methodological criterion elevation.** Popper's falsifiability criterion was developed within a particular philosophical project: demarcating empirical science from systems that could accommodate every possible observation, while rejecting inductive verification as the logic of science. The concern in this paper is not that falsifiability is useless or that Popper simply demanded that every theory be discarded after one anomaly. It is that a criterion with a specific methodological purpose may, in some settings, be treated as a general gatekeeping test of intellectual seriousness or epistemic worth. This is an institutional and philosophical question, not a lexical one.
+**Third: methodological criterion elevation.** Falsifiability is a classification criterion. The concern in this paper is not that Popper's criterion is useless or that he demanded every theory be discarded after one anomaly. It is that the criterion classifies and does not validate, and that treating it as validation mistakes classification for validation. This is a logical and philosophical question, not primarily a lexical one.
 
 The three mechanisms differ in origin, operation, and evidence. Their common resonance is narrower: a legitimate role or useful criterion may acquire an authority beyond what has been independently demonstrated. A fourth pattern — burden-shifting — is developed in §3.6 as a specific form of the premise case. It should not be treated as a fourth master mechanism.
 
-## 1.6 Bourdieu and symbolic power
+There is a stronger reading of that resonance, which the paper states and does not claim: that these designations do not merely borrow authority but reorganize the hearer's background — that the label works as a charm works, not by persuading anyone of anything but by changing what can be asked. It is stated, priced, and fenced off in the Coda. The paper's claim is the structural skeleton of this idea (F9a–c); the psychological life of it — the hearer's accommodation, the narrowed aperture — is the Coda's subject.
+
+## 1.7 Bourdieu and symbolic power
 
 Pierre Bourdieu's *Language and Symbolic Power* (1991) established that language carries authority not derived from its intrinsic properties but from the speaker's position in a field. **Legitimate language** is not defined by its intrinsic properties but by the speaker's position in a field. **Symbolic violence** is the imposition of categories that the dominated accept as legitimate. The **authorized speaker** is one who has been granted the right to speak by the institution. The **rite of institution** confers a status that the words alone cannot confer.
 
-F8 is a specification of Bourdieu's argument at the lexical level. Bourdieu established that language carries authority not derived from content. This paper specifies one mechanism by which that authority operates — the designation of a proposition as a premise — and proposes a test of the mechanism's effect. The contribution is the specification, not the observation that words carry associations. F8 is consistent with Bourdieu, not derived from him.
+F8 is a specification of Bourdieu's argument at the lexical level. F9b and F9c specify a mechanism Bourdieu's framework cannot describe — the intra-argumentative position. Bourdieu established that language carries authority not derived from content. This paper specifies one mechanism by which that authority operates — the designation of a proposition as a premise — and proposes a test of the mechanism's effect. The contribution is the specification, not the observation that words carry associations. F8 is consistent with Bourdieu, not derived from him.
 
-## 1.7 Companion inquiries
+## 1.8 Companion inquiries
 
-The mechanism examined in this paper at the lexical, semantic, and methodological levels operates at the institutional level in a companion paper on **legibility bias**. That paper argues that formal institutions allocate benefits and burdens according to the availability of standardized documentation rather than according to the underlying condition. The mechanism is the same: a classification — the legible evidence, the credentialed signal, the falsifiable theory — is mistaken for the validation of what it classifies. The present paper establishes the mechanism at the level of language and method; the legibility paper documents it at the level of institution.
+The mechanism examined in this paper at the lexical, semantic, and methodological levels operates at the institutional level in a companion paper on **legibility bias**. That paper argues that formal institutions allocate benefits and burdens according to the availability of standardized documentation rather than according to the underlying condition. The mechanism is the same: a classification is mistaken for the validation of what it classifies. The present paper establishes the mechanism at the level of language and method; the legibility paper documents it at the level of institution.
 
-A second companion inquiry concerns the **psychological conditions of reception**. The five-stage model of §6.3 and the experiments of Appendix C are designed to inform that inquiry; they are not prerequisites for the paper's conclusion. The philosophical argument (F1–F9) is what the paper establishes. The psychological model is what the paper offers to a research programme that will be conducted, in part, elsewhere. The two inquiries have a shared object — attributed authority — but they answer different questions about it.
+A second companion inquiry concerns the **psychological conditions of reception**. The five-stage model of §6.3 and the experiments of Appendix C are designed to inform that inquiry; they are not prerequisites for the paper's conclusion. The philosophical argument (F1–F10) is what the paper establishes. The psychological model is what the paper offers to a research programme that will be conducted, in part, elsewhere.
 
-The distinction matters because the paper's conclusion does not depend on the psychological programme's success. If H1a and H1b were confirmed, the paper's account of *how* classification is mistaken for validation would have additional empirical support; if they were disconfirmed, the paper's conceptual and argumentative findings would remain. Neither outcome would alter F8 or F9.
+The distinction matters because the paper's conclusion does not depend on the psychological programme's success. If H1a and H1b were confirmed, the paper's account of *how* classification is mistaken for validation would have additional empirical support; if they were disconfirmed, the paper's conceptual and argumentative findings would remain. Neither outcome would alter F8, F9a–c, or F10.
 
-## 1.8 Method and evidential discipline
+## 1.9 Method and evidential discipline
 
 The paper combines lexical and logical analysis, a purposive institutional corpus, philosophical literature, psychological experiments, and proposed original experiments. These sources answer different questions.
 
-The institutional examples are purposively selected because they reveal how the words are used in consequential discourse. They are not a random sample of all English usage, nor a statistical estimate of prevalence. Their coding distinguishes affirmative or authority-bearing uses, neutral or mixed uses, and explicitly qualified or rejected uses. Negative examples are retained rather than discarded: they are necessary controls against a one-sided reading.
+The institutional examples are purposively selected because they reveal how the words are used in consequential discourse. They are not a random sample of all English usage, nor a statistical estimate of prevalence. Their coding distinguishes affirmative or authority-bearing uses, neutral or mixed uses, and explicitly qualified or rejected uses. Negative examples are retained rather than discarded.
 
 The psychological literature is treated with equal caution. Research on presupposition, normative language, reason-giving, source credibility, and institutional legitimacy supports mechanisms adjacent to the hypotheses of this work. It does not, without direct manipulation, prove that the isolated word *premise* or *reason* changes perceived legitimacy. That gap is not hidden; it becomes a central research question in §6.
 
-The Popper section distinguishes Popper's stated position from later critiques and from the possible institutional use of Popperian criteria. The existence of a criterion in philosophy of science does not demonstrate that contemporary editors, reviewers, teachers, or funders use it as a universal gatekeeping rule. The paper therefore proposes a specific corpus study to determine whether this practice occurs and at what level.
+The Popper section distinguishes Popper's stated position from later critiques and from the possible institutional use of Popperian criteria. The paper's argument about falsifiability is philosophical and does not depend on evidence that the criterion is misused in institutional practice; a note on institutional practice (§5.8) records the scholarship on gatekeeping without making it load-bearing.
 
 ---
 
 # §2 — Findings, Propositions, and Hypotheses
 
-## 2.1 Findings F1–F9
+## 2.1 Findings F1–F10
 
-| # | Finding | Method | Status |
-|---|---|---|---|
-| F1 | *Premise* and *introduction* are not formally synonymous; their definitions and etymologies differ | Lexicography (Oxford, Cambridge), formal logic (IEP, SEP) | Established |
-| F2 | A deductively valid argument may have false premises; validity does not entail soundness | Formal logic | Established |
-| F3 | Institutional discourse uses *premise* to designate a proposition as a foundation for subsequent reasoning, across academic, legal, governmental, educational, travel, and military domains | Purposive corpus of 16 documented instances (§3.4) | Established as usage pattern |
-| F4 | Institutional actors also reject and contest premises, showing that the designation does not guarantee acceptance | *US v. Louisiana*; *Boyle v. City of Bend*; *Franconia Associates v. US*; Hill & Niemi (§3.4) | Established |
-| F5 | *Reason* has distinguishable explanatory, motivating, and normative functions; the first two do not entail the third | SEP; philosophy of action; the factory demonstration (§4) | Established |
-| F6 | Falsifiability is a demarcation criterion, not a criterion of truth; tests depend on auxiliary assumptions; theories survive anomalies; research programmes are evaluated over time; degrees of support are representable | Historical reconstruction in §5 | Established by the reconstruction |
-| F7 | Framing effects are real and conditional: presupposition can be persuasive; normative expressions shape compliance; placebic reasons can raise compliance under some conditions; perceived legitimacy can raise prosocial behaviour | Thoma et al. 2023; Kuang & Bicchieri 2024; Langer et al. 1978; Dickson et al. 2022; counter-evidence: Folkes 1985; Van Meurs et al. 2022 [CITATION NEEDED — VERIFY; unverifiable as named — Appendix E6 #42. The finding's status rests on Folkes 1985 (Appendix E2 #13) and does not depend on this entry] | Established, with counter-evidence |
-| F8 | **Classification is not validation**: the designation of a proposition, explanation, or method does not establish its truth, adequacy, or legitimacy | Derived from F1–F7 | Established |
-| **F9** | **Premise designation shifts the procedural burden of justification**: designating a proposition as a premise can, in documented argumentative practice, position it as an accepted starting point and shift the conversational or institutional burden of justification from the person introducing the proposition to the person challenging it | Analysis of argumentative practice; House of Lords case; formal distinction between validity and soundness; assumption-smuggling criterion 5 (§3.6) | **Established as argumentative pattern** |
+The findings are of four kinds, distinguished by status.
+
+| Status | Meaning | Findings |
+|---|---|---|
+| Established by the literature | Consensus position in the field | F1, F2, F5, F6, F7 |
+| Established by the paper's corpus | The paper's own documented evidence | F3, F4, F9a |
+| Established by the paper's argument | The paper's philosophical conclusion | F8 |
+| **Argued against the dominant reading** | The paper's contribution, contested by the field | **F9b, F9c, F10** |
+
+**F1.** *Premise* and *introduction* are not formally synonymous; their definitions and etymologies differ. Established by lexicography (Oxford, Cambridge) and formal logic (IEP, SEP).
+
+**F2.** A deductively valid argument may have false premises; validity does not entail soundness. Established by formal logic.
+
+**F3.** Institutional discourse uses *premise* to designate a proposition as a foundation for subsequent reasoning, across academic, legal, governmental, educational, travel, and military domains. Established by the purposive corpus of sixteen documented instances (§3.4), as a usage pattern rather than a prevalence estimate.
+
+**F4.** Institutional actors also reject and contest premises, showing that the designation does not guarantee acceptance. Established by *US v. Louisiana*; *Boyle v. City of Bend*; *Franconia Associates v. US*; Hill & Niemi (§3.4).
+
+**F5.** *Reason* has distinguishable explanatory, motivating, and normative functions; the first two do not entail the third. Established by SEP, philosophy of action, and the factory demonstration (§4).
+
+**F6.** Falsifiability is a demarcation criterion, not a criterion of truth; tests depend on auxiliary assumptions; theories survive anomalies; research programmes are evaluated over time; degrees of support are representable. Established by the argument of §5.
+
+**F7.** Framing effects are real and conditional: presupposition can be persuasive; normative expressions shape compliance; placebic reasons can raise compliance under some conditions; perceived legitimacy can raise prosocial behaviour. Established by Thoma et al. 2023; Kuang & Bicchieri 2024; Langer et al. 1978; Dickson et al. 2022; counter-evidence: Folkes 1985; Van Meurs et al. 2022 [CITATION NEEDED — VERIFY; unverifiable as named — Appendix E6 #42. The finding's status rests on Folkes 1985 (Appendix E2 #13) and does not depend on this entry].
+
+**F8.** **Classification is not validation**: the designation of a proposition, explanation, or method does not establish its truth, adequacy, or legitimacy. Derived from F1–F7.
+
+**F9a — positioning.** Designating a proposition as a premise positions it as an accepted starting point from which subsequent argument proceeds. *Established* by the corpus (§3.4) and by the formal analysis of the premise slot (§3.3). The premise slot is the position from which subsequent argument proceeds, not the position to which the argument is directed.
+
+**F9b — burden-shift.** The positioning can shift the conversational or institutional burden of justification toward the challenger. *Argued against the dominant reading.* Argued from the House of Lords case (§3.5) and from the distinction between the logical burden of proof and the conversational burden of justification (§3.6.2). The logical burden does not shift with the designation. The conversational and institutional burdens can.
+
+**F9c — removal.** The positioning can remove the proposition from the space of things the argument examines — the "possible stabilization" of §3.6.3. *Argued against the dominant reading.* Argued from the same case and from the structural relation between position and scrutiny. A proposition in the premise position is not examined by the argument that proceeds from it; the argument is directed at its consequences, not at its acceptability. This is separable from F9b: a proposition can be positioned and stabilized without any shift in perceived burden.
+
+**F10.** **Falsifiability is a classification criterion, not a validation criterion**: the criterion classifies statements as belonging to the class of empirically testable theories; it does not establish their truth, explanatory power, or scientific validity. Science does not need to be falsifiable to be valid. Treating falsifiability as a condition of validity mistakes classification for validation. *Argued against the dominant reading.* Established by the logical distinction between classification and validation, the domain argument (mathematics, history, taxonomy, conceptual analysis), Popper's own concession that non-scientific ideas can be enlightening and valuable, the Salmon problem of corroboration, and the level problem developed by Beisbart (2026) and Dormandy & Grimley (2024) (§5.4).
+
+**A note on the argued findings.** F9b, F9c, and F10 are the paper's contributions. They are not consensus findings, and the paper should not present them as such. A reader who accepts F1–F8 has accepted what the field already accepts. A reader who accepts F9b, F9c, or F10 has accepted the paper's argument. That is the difference the table marks.
+
+**F9b** claims that positioning a proposition can shift the burden of justification; a reviewer who accepts F9a (positioning) but denies F9b (shift) is making a specific objection the paper can address. **F9c** claims that positioning can remove the proposition from examination; a reviewer who accepts F9a and F9b but denies F9c is likewise making a specific objection. **F10** claims that falsifiability is a classification criterion, not a validation criterion; the claim is philosophical and does not depend on evidence that anyone has confused the two.
+
+**What would refute the argued findings.** F9b would be weakened if burden-shifting proved to be a general property of argumentative positioning rather than a specific effect of premise designation. F9c would be weakened if it could be shown that positioning a proposition as a starting point does not reduce the likelihood that the proposition is subsequently challenged or reexamined. F10 would be refuted if it could be shown that falsifiability and validity are the same property — that a statement's being falsifiable entailed its being valid. F10 would be weakened if it could be shown that mathematics, historical reconstruction, taxonomy, and conceptual analysis are not valid forms of inquiry, or if Popper's concession could be read as consistent with the validation use of the criterion.
 
 ## 2.2 Attributed authority and demonstrated authority
 
@@ -171,7 +207,7 @@ Three concepts require definition.
 
 | Concept | Meaning |
 |---|---|
-| **Designated authority** | The authority that a classification implies or suggests by the role it assigns. Calling a proposition a *premise* designates it as a supporting element in an argument. Calling a statement a *reason* designates it as an explanatory or justificatory consideration. Calling a theory *scientific* designates it as a member of a methodologically distinguished class. |
+| **Designated authority** | The authority that a classification implies or suggests by the role it assigns. Calling a proposition a *premise* designates it as a supporting element in an argument. Calling a statement a *reason* designates it as an explanatory or justificatory consideration. Calling a theory *falsifiable* designates it as a member of a methodologically distinguished class. |
 | **Attributed authority** | The authority that a recipient infers from the designation. A recipient may infer that a premise has already been scrutinized, that a reason supplies a justification, or that a scientific theory has been validated. |
 | **Demonstrated authority** | The authority that independent evidence, formal logic, or normative argument supports. A premise is demonstrated when its truth, acceptability, relevance, and sufficiency are established. A reason is demonstrated when it actually justifies the action it explains. A scientific theory is demonstrated when it is true, well-supported, and explanatory. |
 
@@ -179,7 +215,7 @@ The paper investigates when these three kinds of authority align and when they d
 
 ## 2.4 Register distinction
 
-The table distinguishes five textual strata. **Established findings** (F1–F9) are the paper's load-bearing claims, each established by a method appropriate to its content. **Retained historical analysis** (§5) is the method by which F6 is established rather than asserted; it is not background. **Reflexive examination** (§7) discloses the paper's own assumptions and specifies what would revise it. **Specified hypothesis** (H1a, H1b) and **research question** (RQ3) are the paper's narrowest claims and its only untested ones; they are extensions of F8 and F9 to the lexical-reception level, not the foundation of either. **Reproduced text** (§§3.2, 4.2, 5.2) is carried forward from the source files with the changes disclosed in the Note on the Texts: it is the paper's argument, not evidence about itself.
+The table distinguishes six textual strata. **Established findings** (F1–F8, F9a) are the paper's load-bearing claims, each established by a method appropriate to its content. **Argued findings** (F9b, F9c, F10) are the paper's contributions, contested by the field, and the paper says so. **Retained historical analysis** (§5) is the method by which F6 and F10 are established rather than asserted. **Reflexive examination** (§7) discloses the paper's own assumptions and specifies what would revise it. **Specified hypothesis** (H1a, H1b) and **research question** (RQ3) are the paper's narrowest claims and its only untested ones. **Reproduced text** (§§3.2, 4.2) is carried forward from the two source files with the changes disclosed in the Note on the Texts. One further register appears once, in the Coda: **a stated reading** — the stronger, psychological reading of the premise mechanism, anchored to the findings (Coda 2.1), offered with its price (what would support it, what would defeat it), carrying no evidential weight in this paper, and subject to the deletion test.
 
 These registers must not be read as if they were the same kind of claim.
 
@@ -199,11 +235,13 @@ The two predictions of H1a are separable. A premise label may increase perceived
 
 RQ3 is framed as a research question rather than as a hypothesis because it concerns a dependent variable distinct from those of H1a and H1b and because the direction of any effect is less firmly grounded in the adjacent literature.
 
-None of the three is a finding, and none is the foundation of F8 or F9.
+**Correspondence between H1a and the argued findings.** H1a's two components correspond to the two argued components of F9. The premise-label component of H1a tests F9b (whether positioning shifts perceived burden); the credibility component tests a dimension of F9a (whether positioning increases perceived foundational legitimacy). F9c is not tested by H1a; a future experiment would measure perceived removal from examination directly.
+
+None of the three is a finding, and none is the foundation of F8, F9a, F9b, F9c, or F10.
 
 ## 2.7 Framing
 
-The paper's framing is therefore a documented argument (F1–F9) plus two specified extensions — H1a and H1b — and one specified research question — RQ3. The extensions are not the paper's foundation. Their failure would not affect F8 or F9; their success would add evidence about a psychological transmission mechanism.
+The paper's framing is therefore a documented argument (F1–F10) plus two specified extensions — H1a and H1b — and one specified research question — RQ3. The extensions are not the paper's foundation. Their failure would not affect F8, F9a–c, or F10; their success would add evidence about a psychological transmission mechanism.
 
 ---
 
@@ -211,7 +249,7 @@ The paper's framing is therefore a documented argument (F1–F9) plus two specif
 
 ## 3.1 Cross-reference to the Note on the Texts
 
-The text in §3.2 is taken from `premise.txt`. The four changes applied to it — heading demotion, image-placeholder removal, and the removal of the dialogical register (no display math appears in this source file) — are disclosed in the Note on the Texts at the front of the manuscript. The comparison record is in Appendix F.2. Supplementary analysis follows in §§3.3–3.9.
+The text in §3.2 is taken from `premise.txt`. The three changes applied to it — heading demotion, image-placeholder removal, and the removal of the dialogical register — are disclosed in the Note on the Texts at the front of the manuscript. The comparison record is in Appendix F.2. Supplementary analysis follows in §§3.3–3.9.
 
 ## 3.2 Premise text
 
@@ -411,7 +449,7 @@ The following examples demonstrate actual uses of *premise* in academic, legal, 
 
 ### Locator Key
 
-Full bibliographic locators. V9.0 recorded the locators available in the supplied materials; V9.1 completed the register from the source-verification audit (verified entries marked; the verification basis is recorded in Appendix E, with the editorial audit in Appendix F.5). V10.0 and V10.1 carry the same register forward.
+Full bibliographic locators. V9.0 recorded the locators available in the supplied materials; V9.1 completed the register from the source-verification audit. V10.0 through V15.3 carry the same register forward.
 
 | # | Locator |
 |---|---|
@@ -454,17 +492,29 @@ The case is the paper's clearest institutional illustration of the burden-shifti
 
 Neither reading follows solely from the word *premise*. Between them must decide the whole argument, the constitutional context, and what followed. But upon either reading one thing is certain, and it is all that the paper needs: the designation of the proposition as the starting point altered the procedural conditions under which the proposition itself could be challenged. What the case shows is that a starting proposition can occupy a position in an institutional argument from which it is less directly examined than the propositions that follow from it, and that a challenge to it would occupy a different procedural position from a challenge to those later propositions.
 
-## 3.6 Procedural authority and burden-shifting (F9)
+## 3.6 Premise-laundering: the three components
 
-The House of Lords case illustrates a mechanism that the paper establishes separately. **F9** states:
+The House of Lords case illustrates a mechanism the paper establishes separately and names here.
 
-> Designating a proposition as a premise can, in documented argumentative practice, position it as an accepted starting point and shift the conversational or institutional burden of justification from the person introducing the proposition to the person challenging it.
+> **Premise-laundering** is the operation by which a contestable proposition is moved into the premise position — the position from which an argument proceeds rather than the position to which it is directed — and thereby removed from the space of things that the argument examines. The operation does not require the proposition to be false. It requires only that the proposition be contestable, and that its contestability be invisible from the position it now occupies.
 
-F9 is an argumentative finding, not a psychological one. It concerns the procedural position of a proposition in a debate, not the audience's perception of that position. The two are related but distinct.
+The name is chosen for three reasons. *Premise* because the operation is positional: it works through the slot the proposition occupies. *Laundering* because the operation removes a property — contestability — that the proposition still has. The proposition does not become uncontestable by being placed in the premise position; it becomes unexamined. The laundering is not in the proposition but in the procedural position. The third reason is that laundering is not forgery. A laundered premise is not a fake premise. It is a real premise, in a real argument, whose contestability has been procedurally removed.
 
-### 3.6.1 Four kinds of burden
+The mechanism has three components, stated in §2.1 as F9a, F9b, and F9c. Each has a different evidential basis, and they must be argued separately.
 
-The mechanism operates on four distinguishable burdens. Conflating them is a common source of confusion.
+### 3.6.1 F9a — positioning
+
+Designating a proposition as a premise positions it as an accepted starting point from which subsequent argument proceeds. This is established by the corpus (§3.4) and by the formal analysis of the premise slot (§3.3). The premise slot is the position from which subsequent argument proceeds, not the position to which the argument is directed. Designating a proposition as a premise places it in that slot.
+
+The positioning is not a matter of belief. It is a matter of the argument's architecture. The proposition's being in the premise slot does not require anyone to believe it; it requires only that the argument proceed *from* it. A discussion that begins *from the premise that there is nothing inherently wrong with delegated legislation* does not thereby endorse the proposition; it uses it as the starting point. The distinction between use and endorsement is crucial, and it is what the corpus documents: institutional texts use *premise* to organise reasoning without thereby committing to the proposition's truth.
+
+### 3.6.2 F9b — burden-shift
+
+The positioning can shift the conversational or institutional burden of justification toward the challenger. This is argued from the House of Lords case (§3.5) and from the distinction between the logical burden of proof and the conversational burden of justification.
+
+The logical burden of proof — what must be established for an argument to succeed — does not shift with the designation. A premise remains a premise, and the argument's soundness still requires the premise to be true. But the conversational and institutional burdens can shift. A person who challenges a proposition that has been positioned as the starting point is no longer in the ordinary position of offering a counter-argument; they are in the position of challenging an accepted starting point. The cost of doing so — conversational, institutional, psychological — can be higher than the cost of defending the starting point. The defending party can say "we are working from this premise; if you object, show why." The challenger must not only object but also reopen a question that has been procedurally closed.
+
+The four burdens must be distinguished, for conflating them is a common source of confusion.
 
 | Burden | What it governs | Example |
 |---|---|---|
@@ -473,28 +523,49 @@ The mechanism operates on four distinguishable burdens. Conflating them is a com
 | **Institutional burden** | In legal, administrative, or academic settings, who is procedurally required to provide evidence or argument | A report that "starts from the premise that X" may shift the procedural onus to those who would contest X |
 | **Psychological cost** | The perceived effort, risk, or social cost of challenging an established starting point | Challenging "the premise from which we begin" may feel like obstructing a discussion that has already moved on |
 
-The premise-designation mechanism operates primarily on the **conversational** and **institutional** burdens. It does not change the logical burden of proof: a premise remains a premise regardless of who is speaking. But because audiences may not distinguish these burdens, a shift in conversational burden can be experienced as a shift in logical burden. That experience — if it occurs — is the subject of RQ3.
+The four burdens are not four aspects of one thing. They are four different things, which is why conflation is a common error. The premise-laundering mechanism operates primarily on the conversational and institutional burdens. It does not change the logical burden. But because audiences may not distinguish these burdens, a shift in conversational burden can be experienced as a shift in logical burden. That experience — if it occurs — is the subject of RQ3.
 
-The four-burden distinction also does work in the design of H1a. The "psychological cost" burden is the one that the experiment can most directly probe: the willingness to challenge, the perceived procedural position of a challenger, and the perceived effort of reopening a settled starting point are all measures of psychological cost. The "conversational" and "institutional" burdens are what F9 establishes as features of argumentative practice. The "logical" burden is what the experiment must not confuse with the others.
+### 3.6.3 F9c — removal
 
-### 3.6.2 Three-stage process and two consequences
+The positioning can remove the proposition from the space of things the argument examines. This is argued from the same case and from the structural relation between position and scrutiny.
 
-The mechanism has three stages.
+A proposition in the premise position is not examined by the argument that proceeds from it. The argument is directed at its consequences — what follows from it — not at its acceptability — whether it should be accepted. The proposition may be reexamined: the discussion may return to it, a challenger may reopen it, the institution may put it to independent question. But the default position is non-examination. The argument, by proceeding from the proposition, has moved past it. This is what earlier versions of the paper called "possible stabilization," and it is separable from F9b. A proposition can be positioned and stabilized without any shift in perceived burden. A discussion can, in principle, examine the proposition again without anyone experiencing a burden shift; the removal of the proposition from the argument's scope is a structural fact, not a psychological one.
 
-1. **Designation.** A proposition is introduced as a premise or accepted starting point. The designation can be explicit ("let us begin from the premise that...") or implicit (presenting the proposition as a shared assumption from which the discussion proceeds).
-2. **Procedural positioning.** The discussion proceeds from the proposition rather than first examining it. The proposition's merits are not settled; they are bypassed in order to examine what follows from them.
-3. **Burden displacement.** The person who would challenge the proposition now occupies a different procedural position. They are not merely offering a counter-argument; they are challenging an accepted starting point. The conversational or institutional cost of doing so can be higher than the cost of defending the starting point.
+Foundations laid in this manner keep their seats as certain guests keep theirs at table — not by having earned the chair, but by never having been asked to rise. The audience is invited to admire the bridge, and forgets to ask after the stone. Whether the forgetting is an accident of attention or the residue of the designation itself — whether the stone is merely unexamined or has become unaskable — is the stronger reading of this finding. It is stated in the Coda and claimed nowhere.
 
-The mechanism has two consequences.
+### 3.6.4 What F9a–c do not claim
 
-- **Challenge asymmetry.** Defending the starting point may require less immediate effort than challenging it. The defender can say "we are working from this premise; if you object, show why." The challenger must not only object but also reopen a question that has been procedurally closed.
-- **Possible stabilization.** The proposition may retain its position without having received independent justification. It does not need to be defended because it is the starting point; it is not examined because discussion has moved past it. Its position stabilizes by default.
+The argument does not claim that:
 
-Foundations laid in this manner keep their seats as certain guests keep theirs at table — not by having earned the chair, but by never having been asked to rise. The audience is invited to admire the bridge, and forgets to ask after the stone.
+$$\text{Premise designation} \Rightarrow \text{Burden shift}$$
 
-### 3.6.3 What an audience may infer
+as a necessary logical relationship. The more defensible formulation is:
 
-The psychological component of F9, if it exists, is not simply that the audience regards the premise as more credible. It is that the audience draws inferences about the *position* of the proposition and about *who is now expected to justify*. These inferences can be specified, and their specification is what H1a is designed to test.
+$$\text{Premise designation} \to \text{Positioning (F9a)} \to \begin{cases} \text{Possible burden shift (F9b)} \\ \text{Possible removal from examination (F9c)} \end{cases}$$
+
+Each transition depends on context. The proposition may be explicitly marked as hypothetical. The audience may be told that it remains unverified. The institution may impose a formal burden on the proponent. The challenger may have no obligation to establish anything beyond identifying an unsupported assertion. In these circumstances, the proposed effects may not occur.
+
+F9b and F9c are separable. A reviewer who accepts F9b (positioning shifts burden) but denies F9c (positioning removes the proposition from examination) is making a specific objection the paper can address. The corpus and the House of Lords case support F9b and F9c on the same evidence; the two claims differ in what they predict about the argument's *subsequent course*. F9b predicts a change in who is expected to justify; F9c predicts a change in whether the proposition is reexamined at all.
+
+### 3.6.5 Connections to existing findings
+
+- **Validity and soundness (F2).** Premise designation can make the validity question salient while backgrounding the soundness question. The audience focuses on whether the conclusion follows from the premises, rather than whether the premises are true.
+- **Assumption-smuggling (§3.8, criterion 5).** The operational definition already includes "shifts the burden of proof to those who challenge it." F9b and F9c together are the mechanism by which that criterion is satisfied.
+- **House of Lords (§3.5).** The clearest institutional illustration: the premise is designated as the starting point, critics are positioned as challengers, and the general legitimacy of the mechanism is not directly examined.
+
+### 3.6.6 Scope
+
+Burden-shifting is clearest in the premise case. Suggestive analogues may exist for the reason case ("the reason for the policy is X" can shift the burden from "is the policy justified?" to "is X a sufficient explanation?") and the falsifiability case ("this is unfalsifiable" can shift the burden from "is this claim true?" to "can you make it falsifiable?"). The paper does not develop these analogues at length. Burden-shifting is presented as **primarily a premise-case mechanism**, with the reason and falsifiability extensions marked as suggestive and not tested.
+
+Burden-shifting should not become a fourth master mechanism. It is a pattern within the premise case, not a replacement for the three-mechanism structure.
+
+### 3.6.7 Status
+
+F9a is established. F9b and F9c are argued findings. None claims that audiences always experience a burden shift or a removal. They claim that the argumentative architecture can position propositions, shift procedural burdens, and remove propositions from examination, and that these have procedural consequences. Whether audiences perceive a corresponding shift is RQ3, an untested research question (Appendix C3).
+
+### 3.6.8 What an audience may infer
+
+The psychological component of F9b and F9c, if it exists, is not simply that the audience regards the premise as more credible. It is that the audience draws inferences about the *position* of the proposition and about *who is now expected to justify*. These inferences can be specified, and their specification is what H1a is designed to test.
 
 When a proposition is designated as a premise and discussion proceeds from it, a recipient may infer:
 
@@ -506,35 +577,7 @@ When a proposition is designated as a premise and discussion proceeds from it, a
 
 Some of these inferences may be warranted in a particular context. Others may not be. The critical error occurs when the practical fact that a proposition is being used as a starting point is treated as though it establishes the proposition's truth or soundness.
 
-The five inferences divide into two groups. Inferences 1–3 concern the *foundational status* of the proposition. Inferences 4–5 concern the *allocation of justificatory responsibility*. This division corresponds to the two primary outcomes of H1a and to the split in the audience-inference stage of the psychological model (§6.3). The paper does not claim that all five inferences occur together; the experimental programme is designed to test whether any of them occur, and if so, whether they occur independently.
-
-### 3.6.4 What F9 does not claim
-
-The argument does not claim that:
-
-$$\text{Premise designation} \Rightarrow \text{Burden shift}$$
-
-as a necessary logical relationship. The more defensible formulation is:
-
-$$\text{Premise designation} \to \text{Possible procedural stabilization} \to \text{Possible perceived burden shift}$$
-
-Each transition depends on context. The proposition may be explicitly marked as hypothetical. The audience may be told that it remains unverified. The institution may impose a formal burden on the proponent. The challenger may have no obligation to establish anything beyond identifying an unsupported assertion. In these circumstances, the proposed shift may not occur.
-
-### 3.6.5 Connections to existing findings
-
-- **Validity and soundness (F2).** Premise designation can make the validity question salient while backgrounding the soundness question. The audience focuses on whether the conclusion follows from the premises, rather than whether the premises are true.
-- **Assumption-smuggling (§3.8, criterion 5).** The operational definition already includes "shifts the burden of proof to those who challenge it." F9 is the mechanism by which that criterion is satisfied.
-- **House of Lords (§3.5).** The clearest institutional illustration: the premise is designated as the starting point, critics are positioned as challengers, and the general legitimacy of the mechanism is not directly examined.
-
-### 3.6.6 Scope
-
-Burden-shifting is clearest in the premise case. Suggestive analogues may exist for the reason case ("the reason for the policy is X" can shift the burden from "is the policy justified?" to "is X a sufficient explanation?") and the falsifiability case ("this is unfalsifiable" can shift the burden from "is this claim true?" to "can you make it falsifiable?"). The paper does not develop these analogues at length. Burden-shifting is presented as **primarily a premise-case mechanism**, with the reason and falsifiability extensions marked as suggestive and not tested.
-
-Burden-shifting should not become a fourth master mechanism. It is a pattern within the premise case, not a replacement for the three-mechanism structure.
-
-### 3.6.7 Status
-
-F9 is an argumentative finding. It does not claim that audiences always experience a burden shift. It claims that the argumentative architecture can position propositions and challengers differently, and that this positioning can have procedural consequences. Whether audiences perceive a corresponding shift is RQ3, an untested research question (Appendix C3).
+The five inferences divide into two groups. Inferences 1–3 are the audience-level correlates of F9c (the proposition appears already examined and stabilized); inferences 4–5 are the correlates of F9b (the burden now falls on the challenger). This division corresponds to the two primary outcomes of H1a and to the split in the audience-inference stage of the psychological model (§6.3). The paper does not claim that all five inferences occur together; the experimental programme is designed to test whether any of them occur, and if so, whether they occur independently.
 
 ## 3.7 Monster Energy formalization
 
@@ -581,13 +624,13 @@ For this paper, *assumption-smuggling* is not a synonym for using a premise. It 
 
 This definition is deliberately demanding. A premise that is explicitly stated, defended, and open to challenge is not assumption-smuggling merely because it is called a premise. A hypothetical premise clearly marked as hypothetical is not smuggling. A premise supported by adequate evidence is not illegitimate merely because it is foundational. The diagnosis applies only when the framing and the argumentative practice together conceal or under-justify a consequential assumption.
 
-Criterion 5 is the connection to F9. Burden-shifting can occur without assumption-smuggling: a proposition may be designated as a premise and shift the burden of justification without concealing its contestability or under-justifying it. The two are related but distinct.
+Criterion 5 is the connection to F9b and F9c. Burden-shifting can occur without assumption-smuggling: a proposition may be designated as a premise and shift the burden of justification without concealing its contestability or under-justifying it. The two are related but distinct.
 
 A coding rule is required. **A burden shift should be coded only when the source material supports the inference that justificatory responsibility has moved in practice. The mere presence of the word *premise* is not sufficient.** The corpus codebook in Appendix A adds two supplementary questions (Q1 and Q2) that operationalize this rule, and distinguishes an analyst's inference that a burden shift *may be possible* from evidence of an actual procedural allocation.
 
 ## 3.9 Part I conclusion
 
-The strongest conclusion is not that *premise* means truth or that every use is dogmatic. The evidence supports a more exact claim: the word assigns a proposition a role as support for what follows, and academic and institutional discourse regularly uses that role to organize research, policy, and legal reasoning. Because the role is justificatory, it can be associated with foundational authority. The designation can also shift the procedural burden of justification in argumentative practice (F9). Whether either association changes readers' evaluations is a further empirical question (H1a, RQ3). The actual soundness of the proposition remains independent of its assigned argumentative role.
+The strongest conclusion is not that *premise* means truth or that every use is dogmatic. The evidence supports a more exact claim: the word assigns a proposition a role as support for what follows, and academic and institutional discourse regularly uses that role to organize research, policy, and legal reasoning. The designation positions the proposition (F9a, established); it can shift the burden of justification toward the challenger (F9b, argued); and it can remove the proposition from the space of things the argument examines (F9c, argued). Whether these procedural effects are accompanied by corresponding psychological effects is a further empirical question (H1a, RQ3). The actual soundness of the proposition remains independent of its assigned argumentative role.
 
 ---
 
@@ -595,7 +638,7 @@ The strongest conclusion is not that *premise* means truth or that every use is 
 
 ## 4.1 Cross-reference to the Note on the Texts
 
-The text in §4.2 is taken from `reason.txt`. The changes applied to it — heading demotion, image-placeholder removal, and the removal of the dialogical register — are disclosed in the Note on the Texts. No display math appears in this source file; no conversion was required. The comparison record is in Appendix F.2. Supplementary analysis follows in §§4.3–4.9.
+The text in §4.2 is taken from `reason.txt`. The three changes applied to it — heading demotion, image-placeholder removal, and the removal of the dialogical register — are disclosed in the Note on the Texts. The comparison record is in Appendix F.2. Supplementary analysis follows in §§4.3–4.9.
 
 ## 4.2 Reason text
 
@@ -966,61 +1009,17 @@ The word *reason* does not inherently confer moral approval. Its semantic breadt
 
 Part III is the longest section of the paper. It is not ornamental. It performs three functions that no other section performs.
 
-**First**, it establishes F6 rather than asserting it. The claim that falsifiability is a demarcation criterion and not a criterion of truth is not obvious to a reader who has only encountered "falsifiable" as a term of praise. The reconstruction shows why Popper introduced the criterion — to solve the demarcation problem, not the induction problem — and why it cannot bear the weight later placed on it.
+**First**, it establishes F6 and F10 rather than asserting them. The claim that falsifiability is a demarcation criterion is not obvious to a reader who has only encountered "falsifiable" as a term of praise. The claim that the criterion is a classification criterion, not a validation criterion, is not obvious either. The argument in §5.2 shows why Popper introduced the criterion — to solve the demarcation problem, not the induction problem — and why it cannot bear the weight later placed on it.
 
 **Second**, it makes the criterion-elevation mechanism visible. The paper's claim is not that falsifiability is wrong; it is that a methodological instrument acquired broader authority than its original scope warranted. That claim is only intelligible against the history.
 
-**Third**, it anticipates the reader's likely objection — that falsifiability is a standard methodological criterion, and using it is not assuming legitimacy. The reconstruction shows why the objection is partly right and why it does not save the elevation.
+**Third**, it anticipates the reader's likely objection — that falsifiability is a standard methodological criterion, and using it is not assuming legitimacy. The argument in §5.2 shows why the objection is partly right and why it does not save the elevation.
 
-## 5.2 Popper text
+## 5.2 The problem Popper was addressing
 
-The text below is taken from `karl popper falsification.txt`. The changes applied to it — heading demotion, image-placeholder removal, conversion of three `\\[ ... \\]` display-math blocks to `$$ ... $$`, and the removal of the dialogical register — are disclosed in the Note on the Texts. The mathematical content is unchanged. The affected display-math blocks are the induction schema in Part I §1, the underdetermination arrow in Part III §7, and the Bayes formula in Part V §12. The comparison record is in Appendix F.2.
+Several distinct problems have become intertwined in the philosophy of science, and they must first be distinguished before Popper's contribution can be placed. There is the problem of induction, which asks how observations justify general theories. There is the problem of underdetermination, which asks why several different theories can explain the same observations. There is the problem of false positives, which asks how genuine patterns are distinguished from coincidental or misleading observations. There is the problem of demarcation, which asks what distinguishes scientific theories from theories that cannot be empirically tested. And there is the problem of theory selection, which asks how several competing theories are to be compared. Popper's falsificationism primarily addresses the fourth problem, while attempting to avoid the traditional inductive justification of scientific theories. The five problems are related, but they are not identical, and a criterion that addresses one may not address the others.
 
-### Karl Popper, induction, and falsification
-
-#### Reconstructing the problem from first principles — and examining whether falsification is actually necessary
-
-There is a strong philosophical argument for preserving multiple competing theories rather than prematurely eliminating them.
-
-The problem that Popper was attempting to address must first be reconstructed. Several distinct problems have become intertwined in the philosophy of science:
-
-1. The problem of induction: How do observations justify general theories?
-2. The problem of underdetermination: Why can several different theories explain the same observations?
-3. The problem of false positives: How do we distinguish genuine patterns from coincidental or misleading observations?
-4. The problem of demarcation: What distinguishes scientific theories from theories that cannot be empirically tested?
-5. The problem of theory selection: How do we decide which of several competing theories deserves greater confidence?
-
-Popper's falsificationism primarily addresses the fourth problem, while attempting to avoid the traditional inductive justification of scientific theories.
-
-These problems are related, but they are not identical.
-
-The initial conclusion is this:
-
-Preserving a spectrum of competing theories is a defensible and important principle of scientific inquiry. Falsifiability should not be treated as a universal certificate of truth, legitimacy, or rationality, nor should a single apparent counterexample automatically eliminate a theory.
-
-This must be distinguished from abandoning empirical criticism altogether.
-
-### PART I — How the problem originated
-
-#### 1. The starting point: Observation does not automatically produce knowledge
-
-Consider the following observations:
-
-- Every swan one has encountered is white.
-- Every swan another person has encountered is white.
-- Every swan recorded in available observations is white.
-
-From these, a theory is formulated:
-
-All swans are white.
-
-How is that conclusion arrived at?
-
-By observing particular instances and generalizing from them.
-
-This is called induction.
-
-The logical structure is:
+The starting point is that observation does not automatically produce knowledge. Suppose one observes that every swan one has encountered is white, that every swan another person has encountered is white, and that every swan recorded in available observations is white. From these, one formulates the theory that all swans are white. The logical structure is:
 
 $$
 \begin{aligned}
@@ -1033,620 +1032,71 @@ $$
 \end{aligned}
 $$
 
-The problem is that the conclusion contains more information than the observations themselves.
+The conclusion contains more information than the observations themselves. A finite number of swans has been observed; the conclusion concerns every swan, including those never encountered. The conclusion is therefore not logically guaranteed by the observations. This is the basic problem of induction.
 
-A finite number of swans has been observed. The conclusion concerns every swan, including those never encountered.
+Hume gave the problem its classical formulation. Suppose the sun has risen every morning in recorded human history; it does not follow deductively that the sun will rise tomorrow. Nor can the principle that the future will resemble the past be justified through induction without circular reasoning. Saying that induction has worked in the past, and therefore will continue to work, is itself another inductive inference; one is using the very principle one is attempting to justify. The inability to establish absolute certainty does not, however, imply the inability to establish degrees of evidential support. The practical question — what to believe, given the evidence — is separable from the philosophical question — whether the inductive step is deductively guaranteed. The distinction matters, because Popper's proposal will be intelligible only if the philosophical problem is held apart from the practical one.
 
-The conclusion is therefore not logically guaranteed by the observations.
+Popper's target was not primarily the induction problem but the demarcation problem. How can a genuinely scientific theory be distinguished from a theory that can accommodate practically any observation? He had in mind, among others, Marxist historical theory and the psychoanalytic systems of Freud and Adler — theories that appeared capable of explaining a remarkably wide range of human behaviour and historical events, so that almost any observation could be interpreted as supporting them. The contrast case was Einstein's general relativity, which made a particularly risky prediction: light passing near a massive body would be deflected by gravity. If the predicted effect did not occur under the specified conditions, this would count against the theory. The 1919 solar-eclipse observations became a famous test of the prediction. Popper found this contrast important: one type of theory appears compatible with nearly every possible observation; another type makes specific predictions that could conflict with what is observed. He concluded that a scientific theory must expose itself to possible empirical criticism.
 
-This is the basic problem of induction.
+Falsifiability is the proposed criterion. A theory should make claims that could, in principle, be contradicted by observable evidence. Consider two theories. The first — "all metals expand when heated under specified conditions" — is falsifiable: a sufficiently reliable observation of a metal that does not expand under those conditions would contradict the universal statement. The second — "some invisible influence always makes the world behave exactly as it does, whatever happens" — is not: no conceivable observation has been specified that would contradict it. Popper's argument was that scientific theories should prohibit certain possible observations rather than accommodate every conceivable outcome. A theory that forbids nothing, on his view, confirms nothing.
 
-#### 2. David Hume: Where is the justification for the generalization?
+Three terms must be kept distinct. *Falsifiability* is the property of a theory that can be potentially contradicted by empirical observations. *Falsification* is the judgment that a theory has been contradicted by a test. *Corroboration* is the appraisal of a theory that has survived demanding tests so far. Popper did not claim that a theory becomes scientifically legitimate because it has already been falsified; he proposed falsifiability as a criterion for distinguishing science from non-science. Nor did survival of testing establish that a theory was definitively true. A theory can be scientific without being true. A theory can be falsifiable without having been tested. A theory can be corroborated without being verified. And a theory can be widely accepted without being permanently correct.
 
-The philosophical problem was famously formulated by David Hume in the eighteenth century.
+The method is that of conjectures and refutations. Instead of claiming that observations prove a theory, Popper argues that theories are provisional proposals subjected to critical testing: identify a problem; develop a theoretical explanation; derive predictions from the explanation; test the predictions; identify contradictions or difficulties; develop improved explanations. The method avoids attempting to establish the truth of a universal theory through repeated positive observations. But it leaves a residual problem. Suppose four competing theories have not been falsified, and may even contradict one another. What does falsification alone tell us about which is more likely to be correct? Not enough. A strictly deductive approach can leave several incompatible, unfalsified hypotheses on an equal footing, even though scientists need to make comparative judgments about their evidential support. Popper provides a powerful method of criticism, but criticism alone is not a complete theory of how all available explanations should be evaluated and compared.
 
-Hume questioned the justification for assuming that the regularities observed in the past will continue into the future.
+The theoretical plurality position follows. Preserving a spectrum of competing theories is a defensible and important principle of scientific inquiry. Falsifiability should not be treated as a universal certificate of truth, legitimacy, or rationality, nor should a single apparent counterexample automatically eliminate a theory. But preserving alternatives must be distinguished from abandoning empirical criticism. Preserving a theory as a possible explanation does not mean treating every theory as equally credible. Some theories may repeatedly fail reliable predictions; others may demonstrate much stronger explanatory and predictive performance. The former can be preserved as historical or speculative possibilities without granting them the same evidential standing as the latter.
 
-Suppose:
+The connection to the earlier parts is direct. The preceding arguments about premise and reason have challenged how terminology can confer an appearance of legitimacy on something before its legitimacy has been independently established. The same distinction applies to falsification. The following table displays the difference:
 
-1. The sun has risen every morning in recorded human history.
-2. Therefore, the sun will rise tomorrow.
+| Terminology | What it actually establishes |
+|---|---|
+| Scientific theory | A theory classified as scientific under a particular methodology |
+| Falsifiable theory | A theory that exposes itself to possible empirical contradiction |
+| Corroborated theory | A theory that has survived particular tests |
+| Accepted theory | A theory currently accepted by a scientific community |
+| True theory | A theory that accurately describes reality |
 
-The conclusion is extremely reasonable in ordinary life.
-
-But what logically guarantees it?
-
-Hume identified a problem:
-
-- One cannot prove that the future must resemble the past through pure deductive logic.
-- Nor can that principle be justified through induction without circular reasoning.
-
-Why?
-
-Because saying that induction has worked in the past, and therefore will continue to work, is itself another inductive inference.
-
-One is using the very principle one is attempting to justify.
-
-This is Hume's central challenge.
-
-Importantly, Hume was not arguing that people should stop making inductive inferences. He was questioning their ultimate rational justification.
-
-##### Is this really a problem?
-
-There are two ways of approaching it.
-
-Philosophical interpretation:
-
-Yes. There is a genuine problem if one demands a deductive guarantee that observations justify universal conclusions about unobserved reality.
-
-Practical interpretation:
-
-No. It does not follow that inductive reasoning is useless or that scientific generalizations are irrational.
-
-It means that conclusions drawn from observations are fallible and must remain open to revision.
-
-This distinction is essential.
-
-The inability to establish absolute certainty does not imply the inability to establish degrees of evidential support.
-
-#### 3. The next problem: Multiple theories can explain the same observations
-
-This is where the argument becomes particularly relevant.
-
-Imagine that a correlation is observed between two variables:
-
-- Children who play violent video games exhibit more aggressive behaviour.
-- Children who play fewer violent video games exhibit less aggressive behaviour.
-
-Several theories could explain the observation.
-
-Observed pattern
-
-### Gaming ↔ Aggression
-
-A correlation is observed. Its causal interpretation remains open.
-
-Theory A — Direct causation
-
-Playing violent video games contributes to aggressive behaviour.
-
-Theory B — Reverse causation
-
-Children who already have aggressive tendencies are more attracted to violent video games.
-
-Theory C — Common cause
-
-A third factor, such as environmental circumstances, contributes to both behaviours.
-
-Theory D — Multiple interacting causes
-
-Gaming, individual characteristics, family circumstances, and social environment interact.
-
-All four theories may initially be compatible with the same observed correlation.
-
-Which one is correct?
-
-The observations alone do not settle the question.
-
-This is known as the problem of underdetermination of theory by evidence.
-
-It is a distinct problem from Hume's induction problem, although the two are closely connected.
-
-And here is an important implication:
-
-The existence of multiple plausible explanations does not mean that all of them are false. Nor does it mean that one must immediately be selected as true.
-
-They can remain competing hypotheses while further observations, experiments, and alternative explanatory frameworks are developed.
-
-### PART II — How Popper arrived at falsification
-
-#### 4. The historical context: The problem was also what counted as science
-
-Karl Popper was not simply trying to find a way to make induction more reliable.
-
-He was also concerned with a different question:
-
-How can a genuinely scientific theory be distinguished from a theory that can accommodate practically any observation?
-
-This concern was shaped by his encounters with three intellectual movements:
-
-- Marxist historical and social theory.
-- Freudian psychoanalysis.
-- Adlerian individual psychology.
-
-Popper observed that these theories appeared capable of explaining a remarkably wide range of human behaviours and historical events.
-
-The problem, as he saw it, was that almost any observation could be interpreted as supporting them.
-
-He contrasted this with Albert Einstein and general relativity.
-
-Einstein's theory made a particularly risky prediction: light passing near a massive body would be deflected by gravity.
-
-If the predicted effect did not occur under the specified conditions, this would count against the theory.
-
-The 1919 solar-eclipse observations became a famous test of the prediction.
-
-Popper found this distinction important:
-
-- One type of theory appears compatible with nearly every possible observation.
-- Another type makes specific predictions that could conflict with what is observed.
-
-He concluded that a scientific theory must expose itself to possible empirical criticism.
-
-#### 5. Popper's proposed solution: Falsifiability
-
-Popper proposed a methodological principle called falsifiability.
-
-The principle is relatively straightforward:
-
-A theory should make claims that could, in principle, be contradicted by observable evidence.
-
-Consider:
-
-Theory A:
-
-"All metals expand when heated under specified conditions."
-
-A sufficiently reliable observation of a metal that does not expand under those conditions would contradict the universal statement.
-
-Theory B:
-
-"Some invisible influence always makes the world behave exactly as it does, whatever happens."
-
-No conceivable observation has been specified that would contradict this statement.
-
-Theory A is falsifiable in Popper's sense.
-
-Theory B, as formulated, is not.
-
-His argument was that scientific theories should prohibit certain possible observations rather than accommodate every conceivable outcome.
-
-##### An important correction
-
-Three terms must not be confused:
-
-| Term           | Meaning                                                             |
-| -------------- | ------------------------------------------------------------------- |
-| Falsifiability | A theory can potentially be contradicted by empirical observations. |
-| Falsification  | A theory is judged to have been contradicted by testing.            |
-| Corroboration  | A theory has survived demanding tests so far.                       |
-
-Popper did not claim that a theory becomes scientifically legitimate because it has already been falsified.
-
-He proposed falsifiability as a criterion for distinguishing science from non-science.
-
-Nor did survival of testing establish that a theory was definitively true.
-
-#### 6. Did Popper actually solve the problem of induction?
-
-Here things become interesting.
-
-Popper's position was essentially that science does not need to derive universal theories inductively from observations.
-
-Instead, he proposed:
-
-1. Identify a problem.
-2. Develop a theoretical explanation.
-3. Derive predictions from the explanation.
-4. Test those predictions.
-5. Identify contradictions or difficulties.
-6. Develop improved explanations.
-
-This is the method of conjectures and refutations.
-
-Instead of claiming that observations prove a theory, Popper argues that theories are provisional proposals subjected to critical testing.
-
-He therefore avoids attempting to establish the truth of a universal theory through repeated positive observations.
-
-But there is an important weakness.
-
-Suppose there are four competing theories:
-
-- Theory A has not been falsified.
-- Theory B has not been falsified.
-- Theory C has not been falsified.
-- Theory D has not been falsified.
-
-They may even contradict one another.
-
-What does falsification alone tell us about which one is more likely to be correct?
-
-Not enough.
-
-The Stanford Encyclopedia of Philosophy explicitly identifies this problem: a strictly deductive approach can leave several incompatible, unfalsified hypotheses on an equal footing, even though scientists need to make comparative judgments about their evidential support.
-
-Popper provides a powerful method of criticism, but criticism alone is not a complete theory of how all available explanations should be evaluated and compared.
-
-### PART III — Is the induction problem actually the problem being identified?
-
-#### 7. The problem of positive observations and false positives
-
-There is an important point here: the existence of a whole spectrum of possible theories, where one cannot necessarily know which observations represent a genuine positive finding and which represent a false positive.
-
-This is related to, but not identical with, the traditional problem of induction.
-
-Three situations must be distinguished.
-
-Situation A — Genuine positive
-
-A theory predicts an observable phenomenon, and the phenomenon is reliably observed.
-
-Situation B — False positive
-
-The observation appears to support the theory, but the apparent relationship is actually attributable to measurement error, coincidence, selection bias, or another mechanism.
-
-Situation C — Multiple compatible explanations
-
-The observation is genuine, but several different theories can explain it.
-
-The third situation is particularly important.
-
-Suppose a scientific experiment produces a genuinely reproducible observation.
-
-That does not mean the explanation initially proposed is necessarily correct.
-
-The observation might be genuine while the interpretation is wrong.
-
-Consequently:
-
-$$
-\text{Genuine observation} \not\Rightarrow \text{Unique correct explanation}
-$$
-
-This is why the problem is not simply that some observations are false positives.
-
-Even entirely accurate observations can underdetermine the explanation.
-
-The distinction between empirical evidence and the conclusions drawn from it is central to contemporary confirmation theory.
-
-#### 8. Why not preserve the entire spectrum of theories?
-
-An important part of the position is correct.
-
-Imagine that ten theories explain the currently available evidence.
-
-There is no automatic reason to reduce those ten theories to one simply because a single answer is desired.
-
-One could:
-
-- Preserve all ten as candidate explanations.
-- Investigate their different assumptions.
-- Identify what each theory explains.
-- Identify what each theory fails to explain.
-- Develop additional observations.
-- Compare their predictions.
-- Identify conditions under which they differ.
-- Keep alternatives that remain genuinely viable.
-
-The advantage is that premature closing of the space of possible explanations is avoided.
-
-This is connected to the philosophical concept of scientific underdetermination and to the broader history of competing research programmes.
-
-The important point is that the failure of one theory to explain an observation does not automatically establish another theory as correct.
-
-Equally, the survival of one theory does not prove it is true.
-
-Keeping theories available and assigning them different levels of evidential support are compatible activities.
-
-But there is a qualification: preserving a theory as a possibility does not mean treating it as equally credible as every other theory.
-
-### PART IV — Why later philosophers challenged strict falsificationism
-
-#### 9. Duhem and Quine: You never test a theory in isolation
-
-Pierre Duhem and later W. V. O. Quine introduced a particularly important difficulty.
-
-When a scientific theory is tested, the theory alone is not being tested.
-
-The test also relies on:
-
-- Measuring instruments.
-- Experimental conditions.
-- Background theories.
-- Mathematical assumptions.
-- Definitions.
-- Auxiliary hypotheses.
-- Assumptions about the reliability of observations.
-
-Suppose a theory predicts that something should happen, but it doesn't.
-
-What has actually been falsified?
-
-Possibilities include:
-
-1. The central theory.
-2. An auxiliary hypothesis.
-3. An assumption about the experimental setup.
-4. A measurement procedure.
-5. An interpretation of the observation.
-
-The experiment does not automatically identify which component is responsible.
-
-This is known as the Duhem–Quine problem or, more specifically, confirmational holism.
-
-##### An interesting historical example: Neptune
-
-Newtonian mechanics initially appeared unable to explain certain irregularities in the orbit of Uranus.
-
-Instead of immediately abandoning Newton's theory, astronomers considered whether another planet was influencing Uranus.
-
-That hypothesis led to the discovery of Neptune in 1846.
-
-Here, preserving the existing theory and modifying an auxiliary assumption was productive.
-
-However, a similar attempt to explain Mercury's orbital anomaly through a hypothetical planet called Vulcan did not succeed. The eventual explanation came through Einstein's general relativity.
-
-This illustrates something extremely important:
-
-An apparent falsification does not automatically tell us which theoretical assumption should be abandoned.
-
-And preserving a theory can sometimes produce scientific discoveries, while in other circumstances it can lead to unproductive attempts to protect it.
-
-#### 10. Thomas Kuhn: Scientific theories do not disappear whenever anomalies occur
-
-Thomas Kuhn challenged the picture of scientific progress as a sequence of theories being immediately eliminated by contradictory observations.
-
-In The Structure of Scientific Revolutions (1962), Kuhn argued that scientists normally work within established paradigms.
-
-A paradigm provides:
-
-- The accepted theoretical framework.
-- The concepts used to interpret observations.
-- The questions scientists investigate.
-- The methods considered appropriate.
-- The standards by which problems are evaluated.
-
-When observations contradict expectations, scientists often treat them as anomalies rather than immediately discarding the paradigm.
-
-They continue investigating.
-
-This is important because scientific theories can survive inconsistencies while researchers develop better explanations.
-
-Scientific change can eventually involve a transition between competing paradigms rather than a simple process of eliminating one false proposition.
-
-#### 11. Imre Lakatos: Evaluate research programmes, not isolated theories
-
-Imre Lakatos offers perhaps the most interesting connection to the preferred position.
-
-He developed the methodology of scientific research programmes.
-
-Instead of evaluating every individual theory as an isolated object, he proposed evaluating sequences of related theories.
-
-His distinction was between:
-
-Progressive research programmes
-
-They develop additional explanatory content, generate novel predictions, and achieve empirical successes.
-
-Degenerating research programmes
-
-They increasingly introduce modifications merely to accommodate known problems without producing substantial new explanatory or predictive achievements.
-
-This means that a scientific research programme can remain worthwhile despite individual theories encountering difficulties or even being refuted.
-
-This is much closer to the approach being advocated.
-
-It preserves a broader theoretical framework while examining its development over time.
-
-It also recognizes that theories cannot always be evaluated independently of their historical development and their competing alternatives.
-
-### PART V — An alternative: Preserve theoretical plurality
-
-#### 12. Bayesian confirmation: Not everything has to be true or false immediately
-
-Another important alternative is Bayesian confirmation theory.
-
-Instead of treating theories exclusively as accepted or falsified, Bayesian approaches represent degrees of confidence through probabilities.
-
-For example, imagine three competing theories:
-
-| Theory   | Initial confidence |
-| -------- | ------------------ |
-| Theory A | 40%                |
-| Theory B | 35%                |
-| Theory C | 25%                |
-
-An observation becomes available.
-
-The likelihood of that observation under each theory is evaluated and confidence is updated accordingly.
-
-The theories are not necessarily eliminated.
-
-Their relative evidential standing changes.
-
-Mathematically, the central relationship is:
-
-$$
-P(H \mid E) = \frac{P(E \mid H)\,P(H)}{P(E)}
-$$
-
-Where:
-
-- \(H\) is a hypothesis.
-- \(E\) is observed evidence.
-- \(P(H)\) is prior probability.
-- \(P(H\mid E)\) is the updated probability.
-
-This provides a formal framework for reasoning under uncertainty.
-
-Importantly, it does not eliminate the problem of induction altogether. The choice of priors, likelihood models, and available hypotheses raises further questions. Nevertheless, it demonstrates that scientific evaluation does not have to be exclusively binary.
-
-### PART VI — Evaluating the proposed position
-
-#### 13. What should be done with competing theories?
-
-The preferred methodology may be formulated as follows.
-
-### Theoretical plurality
-
-##### Preserve the spectrum of explanations.
-
-1\. Generate possibilities
-
-Allow multiple competing explanations to emerge from the observations, including explanations based on different assumptions and theoretical frameworks.
-
-2\. Avoid premature exclusion
-
-Do not eliminate a theory simply because another theory currently appears more convincing.
-
-3\. Examine each theory independently
-
-Investigate its assumptions, definitions, explanatory mechanisms, scope, and limitations.
-
-4\. Compare evidential support
-
-Determine which observations support each theory, which observations challenge it, and whether the evidence distinguishes between competing explanations.
-
-5\. Preserve uncertainty
-
-Do not confuse a theory's current popularity, institutional acceptance, or ability to survive a particular test with proof of its truth.
-
-6\. Develop additional theories
-
-Allow new frameworks to emerge rather than restricting scientific inquiry to an established set of accepted explanations.
-
-7\. Reassess continuously
-
-Change the relative credibility of theories as new observations, experiments, and explanations become available.
-
-This is a defensible form of methodological pluralism.
-
-However, one qualification must be insisted on: preserving a theory as a possible explanation does not mean treating every theory as equally credible. Some theories may repeatedly fail reliable predictions, while others may demonstrate much stronger explanatory and predictive performance.
-
-We can preserve the former as historical or speculative possibilities without granting them the same evidential standing as the latter.
-
-#### 14. Do we actually need falsification?
-
-Three positions must be distinguished.
-
-| Position                                                                 | Assessment           |
-| ------------------------------------------------------------------------ | -------------------- |
-| Every theory must be falsified to be legitimate                          | Incorrect            |
-| One counterexample must immediately eliminate a theory                   | Incorrect            |
-| Scientific theories should be exposed to possible disconfirming evidence | Useful and important |
-
-The first two should be rejected.
-
-The third should not.
-
-Why?
-
-Because without deliberately examining what could contradict a theory, it becomes very easy to construct explanations that accommodate everything.
-
-A theory that can accommodate every possible observation may be interesting as a philosophical perspective, but it cannot distinguish between possible empirical outcomes.
-
-This is the legitimate concern behind Popper's original argument.
-
-The mistake is turning that concern into an absolute, binary gatekeeping mechanism.
-
-There is no requirement to confuse:
-
-- Testability with truth.
-- Falsifiability with falsification.
-- Survival with verification.
-- Scientific classification with epistemological legitimacy.
-
-Popper himself acknowledged that non-scientific ideas could still be enlightening and valuable.
-
-### PART VII — The connection to the earlier arguments about premise and reason
-
-There is a particularly interesting connection here.
-
-The preceding argument has challenged how terminology can confer an appearance of legitimacy on something before its legitimacy has been independently established.
-
-The same distinction applies to falsification.
-
-Consider these expressions:
-
-| Terminology         | What it actually establishes                                     |
-| ------------------- | ---------------------------------------------------------------- |
-| Scientific theory   | A theory classified as scientific under a particular methodology |
-| Falsifiable theory  | A theory that exposes itself to possible empirical contradiction |
-| Corroborated theory | A theory that has survived particular tests                      |
-| Accepted theory     | A theory currently accepted by a scientific community            |
-| True theory         | A theory that accurately describes reality                       |
-
-These are not synonymous.
-
-A theory can be scientific without being true.
-
-A theory can be falsifiable without having been tested.
-
-A theory can be corroborated without being verified.
-
-A theory can be widely accepted without being permanently correct.
-
-And an unfalsifiable proposition is not automatically meaningless, irrational, or false.
-
-The important point is that methodological classification must not be conflated with epistemological validation.
-
-This is the distinction at issue with premise and reason.
-
-### PART VIII — The philosophical position formulated in favour of the argument
-
-Defensible methodological position
-
-##### The principle of theoretical plurality and independent evaluation
-
-The existence of multiple possible explanations for an observed phenomenon should not automatically be treated as a problem requiring the elimination of competing theories.
-
-Inductive observations do not uniquely establish a universal theory, nor does the absence of a falsifying observation establish that a theory is true.
-
-Scientific inquiry should therefore preserve a spectrum of competing theoretical explanations, allowing their assumptions, mechanisms, predictions, and evidential support to be investigated independently and comparatively.
-
-Popper's falsifiability criterion addresses an important problem: theories should expose themselves to empirical criticism rather than accommodate every possible outcome. However, this does not establish that falsification is a necessary or sufficient condition for epistemological legitimacy, nor that a single contradictory observation should determine the fate of an entire theoretical framework.
-
-The Duhem–Quine problem demonstrates that empirical tests depend on interconnected assumptions. Kuhn's account of paradigms demonstrates that scientific theories can remain productive despite unresolved anomalies. Lakatos demonstrates that the development of a research programme can be more informative than the isolated evaluation of an individual theory. Bayesian confirmation demonstrates that evidential assessment can be represented through degrees of confidence rather than exclusively binary acceptance or rejection.
-
-Consequently, scientific reasoning should not be reduced to a procedure of falsifying and eliminating theories.
-
-It should involve the continuous generation, preservation, examination, comparison, refinement, and reassessment of competing explanations.
-
-The purpose of scientific inquiry is not to reduce the theoretical spectrum as quickly as possible. It is to improve our understanding of reality without prematurely restricting the range of possible explanations.
-
-##### Final conclusion
-
-The preference for preserving theoretical plurality and resisting premature theoretical exclusion is well founded.
-
-One refinement is required:
-
-There is no need to make Popperian falsification the universal gatekeeper of legitimate knowledge. There is, however, considerable value in attempting to discover where theories fail.
-
-These two things are entirely compatible.
-
-Falsification can be retained as one investigative instrument without being made the ultimate authority that determines which ideas deserve to exist.
-
-In fact, this is a stronger position than simply rejecting falsification.
-
-It preserves critical testing while refusing to let one particular methodological criterion dictate the boundaries of all legitimate inquiry.
-
-And it avoids reproducing exactly the problem identified in the words premise and reason: turning a methodological designation into an assumed certificate of validity.
-
-##### Primary philosophical references
-
-1. [Stanford Encyclopedia of Philosophy — The Problem of Induction](https://plato.stanford.edu/entries/induction-problem/?utm_source=chatgpt.com).
-2. [Stanford Encyclopedia of Philosophy — Karl Popper](https://plato.stanford.edu/entries/popper/?utm_source=chatgpt.com).
-3. [Stanford Encyclopedia of Philosophy — Underdetermination of Scientific Theory](https://plato.stanford.edu/entries/scientific-underdetermination/index.html?utm_source=chatgpt.com).
-4. [Stanford Encyclopedia of Philosophy — Imre Lakatos](https://plato.stanford.edu/entries/lakatos/?utm_source=chatgpt.com).
-5. [Stanford Encyclopedia of Philosophy — Confirmation](https://plato.stanford.edu/entries/confirmation/?utm_source=chatgpt.com).
-
-A productive next step is to turn this into a unified critique of premise, reason, and falsifiability as three different ways in which methodological or explanatory classifications can become confused with epistemological legitimacy.
+These are not synonymous. A theory can be scientific without being true. A theory can be falsifiable without having been tested. A theory can be corroborated without being verified. A theory can be widely accepted without being permanently correct. And an unfalsifiable proposition is not automatically meaningless, irrational, or false. The important point is that methodological classification must not be conflated with epistemological validation. This is the distinction at issue in the words premise and reason, and it is the distinction that §5.4 presses against the falsifiability criterion itself.
 
 ## 5.3 Induction versus demarcation
 
-The Popper text reconstructs the problem of induction, introduces Popper's criterion of falsifiability, and surveys later challenges from Duhem, Quine, Kuhn, Lakatos, and Bayesian confirmation. The present section asks what remains unresolved.
+The reconstruction in §5.2 introduces the distinction between the problem of induction and the problem of demarcation. The present section asks what remains unresolved in that distinction.
 
-The first distinction is between the problem of induction and the problem of demarcation. Hume's problem concerns the justification of ampliative inference: how observations of past or particular cases can warrant claims about unobserved cases or the future. Popper's demarcation criterion concerns whether a theory is empirically testable in a way that exposes it to possible refutation. A criterion can distinguish a class of testable theories without solving how evidence should rationally influence confidence in them.
+Hume's problem concerns the justification of ampliative inference: how observations of past or particular cases can warrant claims about unobserved cases or the future. Popper's demarcation criterion concerns whether a theory is empirically testable in a way that exposes it to possible refutation. A criterion can distinguish a class of testable theories without solving how evidence should rationally influence confidence in them. The two problems are related — Popper connected them by rejecting inductive verification — but they are not the same problem. Conflating them is to suppose that a criterion that classifies is a criterion that also validates.
 
-## 5.4 Logical falsifiability versus methodological falsification
+## 5.4 Falsifiability as classification, not validation
 
-A universal statement may be logically inconsistent with some possible observation statement. But whether an actual observation is reliable, whether the relevant conditions were met, whether the auxiliary hypotheses were adequate, and whether the observation should lead us to reject the theory are further questions. Popper himself did not suppose that one anomalous report automatically compels immediate rejection in every scientific situation. His account includes conventions about basic statements, reproducibility, and methodological decisions. Any critique that reduces Popper to "one counterexample and the theory is dead" attacks a crude caricature rather than his developed position.
+The paper does not argue that Popper's developed position is the crude caricature. Popper did not suppose that one anomalous report automatically compels immediate rejection in every scientific situation. His account includes conventions about basic statements, reproducibility, and methodological decisions. Any critique that reduces Popper to "one counterexample and the theory is dead" attacks the caricature rather than the man. That concession is not a courtesy; it is a condition of the argument that follows.
+
+The paper argues that falsifiability is a classification criterion, not a validation criterion, and that treating it as the latter mistakes classification for validation. The argument does not depend on any claim about institutional practice. It is a claim about the logical relation between two properties. The argument has five moves.
+
+**First, the properties are different kinds.** Falsifiability is a property of the logical form of a statement: it excludes some possible observations. Validity is a property of the epistemic status of a claim: it is well-supported, true, explanatory, or otherwise warranted. A statement can be falsifiable and false. A statement can be unfalsifiable and true. If the properties were the same, the first case would be impossible. It is not. Therefore falsifiability does not entail validity. And if it does not entail validity, it cannot be a criterion of validity. It can only be a criterion of something else — namely, membership in the class of empirically testable theories.
+
+**Second, much of science is not falsifiable.** Mathematics is not falsifiable; it is provable. Historical reconstruction is not falsifiable in Popper's sense; it is inference to the best explanation from fragmentary evidence. Taxonomy is classificatory, not falsifiable. Conceptual analysis clarifies rather than tests. If falsifiability were necessary for scientific validity, these domains would not be valid science. They are. Therefore falsifiability is not necessary for scientific validity. The domain argument does not show that falsifiability is worthless; it shows that falsifiability is one property among several, and that its absence does not entail invalidity.
+
+**Third, Popper conceded the point.** Popper himself wrote that non-scientific ideas can be enlightening and valuable. If Popper acknowledged that unfalsifiable ideas can be valuable, then falsifiability cannot be a criterion of value or validity in general. It can only be a criterion of one specific thing: membership in the class of empirically testable theories. That is a classification. It is not a validation. The concession is in Popper's own text, and the use of the criterion as a validation standard ignores it.
+
+**Fourth, even within its proper domain, the criterion cannot do the validating work.** Wesley Salmon's criticism is the pressure point. In "Rational Prediction" (1981), Salmon asks whether Popperian corroboration can rationally guide prediction. If corroboration is merely a report of past performance and is explicitly denied any predictive force, why should a decision-maker prefer it when making a prediction about an unobserved future case? Salmon's formulation: *modus tollens without corroboration is empty; modus tollens with corroboration is induction.* The challenge is structural. Popperian replies distinguish corroboration from confirmation; the dispute remains substantive. But the point for the present argument is not that Salmon refutes Popper. It is that the criterion's resources for *prospective* judgment are more limited than the validation use assumes. If corroboration cannot by itself justify the prospective judgment that a corroborated theory will perform well, it cannot by itself justify the prospective judgment that an uncorroborated proposal will not. The criterion can classify; it cannot validate prospectively.
+
+**Fifth, the level problem.** A criterion designed for one level of object cannot be applied at another level without producing a misclassification. The mature empirical theory, the experimental result, the exploratory proposal, the methodological innovation, the cross-disciplinary synthesis, and the research programme are not the same kind of object. Beisbart (2026) argues that judgments should depend on the level of the item being assessed; Dormandy and Grimley (2024) show that the label *scientific* functions as a stamp of epistemic quality and that gatekeeping carries the risk of excluding productive disagreement. These observations converge on a single point: falsifiability, designed for the level of the mature empirical theory, cannot be applied at the level of the exploratory proposal, where the criterion is not yet available and is not required. The exploratory idea is not a failed mature theory. It is a different kind of object, with different conditions of adequacy. The criterion cannot validate it because the criterion was not designed for it.
+
+**The conclusion.** Falsifiability is a classification criterion. It classifies statements as belonging to the class of empirically testable theories. It does not validate them. Treating it as a validation criterion is the paper's error — classification mistaken for validation — committed on the criterion that most needs the distinction. The claim is not that falsifiability is useless. The criterion is useful for what it was designed to do. The claim is that classification is not validation, and that the criterion cannot do work it was not designed to do.
+
+Popperians will deny this. They will say that falsifiability is the correct criterion of scientific status, and that scientific status is a form of validity — specifically, that membership in the class of empirically testable theories *is* what scientific validity means for empirical claims. That denial is the paper's interlocutor. The paper's response is the first and third moves above: the properties are of different kinds, and Popper's own concession undercuts the identification of scientific status with validity. The paper's positive contribution — the level-sensitive framework of §5.9 — is addressed to the Popperian who accepts the first three moves but thinks the criterion still does useful work. The framework does not refute the Popperian; it shows what the Popperian's criterion can and cannot do. It can classify. It cannot validate.
 
 ## 5.5 Salmon and corroboration
 
 Wesley C. Salmon's criticism is more penetrating than the observation that a theory may survive many tests. In "Rational Prediction" (1981), Salmon asks whether Popperian corroboration can rationally guide prediction. If corroboration is merely a report of past performance and is explicitly denied any predictive force, why should a decision-maker prefer it when making a prediction about an unobserved future case?
 
 Salmon's formulation is: "Modus tollens without corroboration is empty; modus tollens with corroboration is induction." The challenge is structural: scientific practice rejects some hypotheses, retains others after severe tests, and uses the retained theories to guide expectations and action. If past performance is relevant to future choice, some non-demonstrative bridge is required. Popperian replies distinguish corroboration from confirmation; the dispute remains substantive. Falsifiability can specify what would count against a theory. It cannot, by itself, rank all surviving theories or determine the degree of confidence to assign to an unrefuted theory.
+
+## 5.5a Duhem–Quine and the unit of test
+
+A theory is never tested in isolation. The **Duhem–Quine problem** — formulated by Pierre Duhem and extended by W. V. O. Quine — holds that an empirical test always exercises a conjunction: the central theory, auxiliary hypotheses, measurement assumptions, background theory, and interpretive conventions. When a prediction fails, the experiment does not identify which conjunct is at fault.
+
+The historical case is instructive. Newtonian mechanics initially appeared unable to account for irregularities in the orbit of Uranus; instead of abandoning Newton, astronomers posited an unseen planet, and Neptune was discovered in 1846. A similar hypothesis for Mercury's perihelion — the planet Vulcan — was not found; the anomaly was eventually explained by Einstein's general relativity. The same methodological move — preserve the theory, revise an auxiliary — was productive in one case and unproductive in the other, and the experiment alone could not tell them apart.
+
+The point for F10 is not that Duhem–Quine refutes falsifiability. It does not: the criterion remains a criterion of testability, and it remains useful. The point is that the criterion, even within its proper domain, cannot by itself determine which hypothesis a failed prediction has falsified. The criterion classifies; the classification underdetermines the correction. This is one more reason why the criterion cannot do the validating work the validation use assumes. It is also the reason the paper's §5.9 level-sensitive framework is a diagnostic rather than an algorithm: the gatekeeper who knows that a test implicates a conjunction of assumptions knows to ask which conjunct, and that question is not one the criterion answers.
 
 ## 5.6 Laudan and problem-solving
 
@@ -1656,17 +1106,27 @@ Problem-solving effectiveness is not a self-applying standard. Problems are not 
 
 ## 5.7 Theoretical plurality and independent evaluation
 
-The Popper text formulates a defensible methodological pluralism: preserve the spectrum of competing explanations, avoid premature exclusion, examine each theory independently, compare evidential support, preserve uncertainty, develop additional theories, and reassess continuously. The paper adopts this position with one qualification: preserving a theory as a possibility does not mean treating it as equally credible as every other theory. Some theories may repeatedly fail reliable predictions while others demonstrate much stronger explanatory and predictive performance.
+§5.2 formulates a defensible methodological pluralism: preserve the spectrum of competing explanations, avoid premature exclusion, examine each theory independently, compare evidential support, preserve uncertainty, develop additional theories, and reassess continuously. The paper adopts this position with one qualification: preserving a theory as a possibility does not mean treating it as equally credible as every other theory. Some theories may repeatedly fail reliable predictions while others demonstrate much stronger explanatory and predictive performance.
 
 The positive position is not "anything goes." It is that a methodological criterion can establish something important without establishing everything that may subsequently be attributed to it. Falsifiability can establish that a theory exposes itself to possible empirical contradiction. It does not, by itself, establish that the theory is true, adequately supported, explanatory, or the best available. The paper defends critical testing without defending methodological absolutism.
 
-## 5.8 The gatekeeping question
+Three positions must be distinguished.
 
-The distinctive contribution of Part III is the hypothesis that falsifiability may sometimes function in contemporary discourse not merely as a technical testability criterion but as a gatekeeping shorthand: "Is it falsifiable?" may be used to imply "Is it a serious scientific idea?" These are not equivalent questions.
+| Position | Assessment |
+|---|---|
+| Every theory must be falsified to be legitimate | Incorrect |
+| One counterexample must immediately eliminate a theory | Incorrect |
+| Scientific theories should be exposed to possible disconfirming evidence | Useful and important |
 
-There is contemporary scholarship directly addressing scientific gatekeeping. Dormandy and Grimley (2024) [verified — *Social Epistemology*, 38(3), 392–412, DOI 10.1080/02691728.2024.2326828; Appendix E3 #21] describe the label "scientific" as a stamp of epistemic quality and analyze the difficulties of excluding fraud or poor science while retaining fruitful disagreement. Beisbart (2026) [verified — *Synthese*, 208(1), article 25, DOI 10.1007/s11229-026-05665-z; flagship article of the "Gatekeeping in Science" topical collection edited by Dormandy and Winsberg; Appendix E3 #22] argues that judgments should depend on the level of the item being assessed.
+The first two are the positions the paper rejects. The third is the position the paper defends. The paper's claim is not that falsification is useless, but that it is one instrument among several, and that turning it into a universal gate reproduces — at the methodological level — the very error the paper documents at the lexical and semantic levels: a classification mistaken for a validation.
 
-These works do not establish that falsifiability is universally used as a shibboleth. They establish that scientific labels can carry epistemic authority and that gatekeeping is a real institutional problem. The specific falsifiability-gatekeeping hypothesis still requires a corpus study.
+## 5.8 Note on institutional practice
+
+The paper's argument in §5.4 is philosophical. It does not depend on evidence that anyone has confused classification with validation. It depends on the logical distinction between the properties.
+
+A separate question is whether the confusion is widespread in institutional practice. There is contemporary scholarship directly addressing scientific gatekeeping. Dormandy and Grimley (2024) [verified — *Social Epistemology*, 38(3), 392–412, DOI 10.1080/02691728.2024.2326828; Appendix E3 #21] describe the label "scientific" as a stamp of epistemic quality and analyze the difficulties of excluding fraud or poor science while retaining fruitful disagreement. Beisbart (2026) [verified — *Synthese*, 208(1), article 25, DOI 10.1007/s11229-026-05665-z; flagship article of the "Gatekeeping in Science" topical collection edited by Dormandy and Winsberg; Appendix E3 #22] argues that judgments should depend on the level of the item being assessed.
+
+These works establish that scientific labels can carry epistemic authority and that gatekeeping is a real institutional problem. They do not establish that falsifiability is universally used as a validation criterion. A corpus study of textbooks, research-methods guidance, journal policies, and funding criteria could determine whether the confusion is widespread and at what level. The paper notes the study as an option. It does not depend on it.
 
 ## 5.9 Level-sensitive evaluation
 
@@ -1682,13 +1142,15 @@ An exploratory idea asks only to be intelligible and fruitful; a conjecture asks
 | A mature theory | Does it explain, predict, integrate, and survive serious criticism better than alternatives? |
 | A publication or institution | Are standards transparent, fair, and consistently applied? |
 
+The framework's central claim is not that falsifiability is wrong. It is that a criterion developed for one level cannot be applied at another level without producing a misclassification. The use of falsifiability as a validation criterion is an instance of the misclassification. The framework is not a solution because it does not tell the gatekeeper what to do; it tells the gatekeeper *which question to ask*. The rest is judgment.
+
 This is not an argument against falsifiability. It is an argument against treating falsifiability as a universal substitute for all other evaluations. A theory making empirical claims should expose those claims to possible disconfirmation. An idea at the exploratory stage need not already be a complete empirical theory.
 
 ## 5.10 Part III conclusion
 
-Popper's criterion remains valuable as a discipline of empirical exposure. But falsifiability does not alone solve induction, rank all competing theories, or provide a complete account of scientific progress. Laudan, Salmon, Kuhn, Lakatos, and Feyerabend each expose a different limitation. They do not jointly prove that falsification is useless. They show that scientific rationality is more complex than a single criterion.
+Popper's criterion remains valuable as a discipline of empirical exposure. But falsifiability does not alone solve induction, rank all competing theories, or provide a complete account of scientific progress. Salmon's critique of corroboration (§5.5) and Laudan's problem-solving account (§5.6) expose two different limitations on the criterion's scope; the gatekeeping literature (§5.4, §5.8) exposes a third; the Duhem–Quine problem (§5.5a) exposes a fourth. Kuhn's paradigm account and Lakatos's research-programme methodology would expose two further limitations. The paper does not develop them here, because F10 does not depend on them, but they point in the same direction: the criterion cannot, by itself, rank surviving theories or distinguish a progressive research programme from a degenerating one. These critiques do not jointly prove that falsification is useless. They show that scientific rationality is more complex than a single criterion.
 
-The original contribution proposed here is an institutional question: in what settings has falsifiability moved from a methodological property of claims to a gatekeeping shorthand for intellectual seriousness? That question must be answered with evidence, not asserted. This is F6.
+The original contribution proposed here is a philosophical finding: falsifiability is a classification criterion, not a validation criterion. The argument is in §5.4. The level-sensitive framework is the positive instrument the paper offers for maintaining the distinction. The criterion's usefulness is one matter; the scope of its authority is another. This is F10.
 
 ---
 
@@ -1728,7 +1190,7 @@ The paper's working psychological model has five stages. Each must be distinguis
 
 The crucial transition is from **presentation** to **audience inference**. A technical or institutional designation may make a proposition easier to process within a familiar framework. The recipient may then attribute to the proposition a degree of prior scrutiny, evidential support, or normative acceptability that has not actually been demonstrated in the particular case.
 
-The split of the audience-inference stage is important because it maps onto the paper's two primary findings. The foundational or credibility inference is the audience-level counterpart of the general phenomenon F8 describes: the passage from classification to validation. The burden-allocation inference is the audience-level counterpart of F9: the shift in procedural position that premise designation can produce. Whether audiences experience either inference, and whether they experience them together or separately, is the empirical question that H1a and RQ3 address.
+The split of the audience-inference stage is important because it maps onto the paper's three argued findings. The foundational or credibility inference is the audience-level counterpart of F8 and of F9a: the passage from classification to validation, and the perception of the proposition as a suitable basis for reasoning. The burden-allocation inference is the audience-level counterpart of F9b: the shift in procedural position that premise designation can produce. F9c — the removal from examination — has its audience-level correlate in the *absence* of an inference: the recipient simply does not consider reopening the proposition. Whether audiences experience either inference, and whether they experience them together or separately, is the empirical question that H1a and RQ3 address. The mechanism of the transition, if it occurs, is best described not in the vocabulary of persuasion but in the vocabulary of common ground: the designation does not argue the proposition into the background; it presents the proposition as already background, and the hearer ratifies it by the ordinary act of understanding (Stalnaker 1970; 2002; Thoma et al. 2023). What that description entails — a stronger reading than anything this part claims — is in the Coda.
 
 ## 6.5 Epistemic, normative, and perceived legitimacy in the psychological model
 
@@ -1750,13 +1212,15 @@ The model also permits reverse and null effects. A label may activate scrutiny r
 
 ## 6.7 Burden-shifting as a related but distinct mechanism (RQ3)
 
-§3.6 establishes F9: premise designation can shift the conversational or institutional burden of justification. RQ3 asks whether audiences *perceive* a corresponding shift.
+§3.6 establishes F9b and F9c: premise designation can shift the conversational or institutional burden of justification, and can remove the proposition from examination. RQ3 asks whether audiences *perceive* the burden shift.
 
 > **RQ3.** When a proposition is designated as a premise, do recipients perceive the burden of justification as falling more on the person challenging the proposition than on the person introducing it, relative to a matched neutral description?
 
 RQ3 is separate from H1a because the two dependent variables are conceptually distinct. A proposition can change perceived foundational legitimacy without changing perceived locus of justification, and it can change perceived locus of justification without changing perceived foundational legitimacy. The two outcomes must be measured separately.
 
-The four burdens of §3.6.1 apply here as well. RQ3 tests the *perceived* analogue of the conversational and institutional burdens. It does not test the logical burden (which is not a matter of perception) or the psychological cost (which requires a different paradigm, such as effort or social-risk measurement). The measures of perceived procedural position and of willingness to challenge are the closest available proxies for the psychological-cost burden in the experimental design.
+The four burdens of §3.6.2 apply here as well. RQ3 tests the *perceived* analogue of the conversational and institutional burdens. It does not test the logical burden (which is not a matter of perception) or the psychological cost (which requires a different paradigm, such as effort or social-risk measurement). The measures of perceived procedural position and of willingness to challenge are the closest available proxies for the psychological-cost burden in the experimental design.
+
+F9c has no direct experimental test in H1a or RQ3. A future experiment would measure perceived removal from examination directly — for example, by asking participants whether the proposition was ever put to question in the argument they read.
 
 ## 6.8 Existing psychological evidence
 
@@ -1774,7 +1238,7 @@ The following studies establish adjacent mechanisms. None isolates the target wo
 
 **And, against this.** A randomized controlled trial in the *Journal of Medical Internet Research* (2023) tested whether adding normative recommendations to scientific communication about face masks affected trust and credibility. Among 1,526 participants, the study found no overall effect of a single exposure on its trust and credibility outcomes, though interaction effects with political orientation were reported. DOI: 10.2196/45482.
 
-**Van Meurs et al. (2022)** is named in the operational instructions as counter-evidence to F7. It is not present in the supplied V5 materials, and the V9.1 verification audit — run from six distinct search angles — could not recover any publication matching this name, year, and subject matter (the only 2022 "van Meurs" publication located is a topically unrelated conversation-analysis study in *BMC Palliative Care*). The name is likely misremembered in the operational instructions. It is recorded here as a required counter-source, but no finding is attributed to it until its source record and relevant result are supplied: Van Meurs et al. (2022) [CITATION NEEDED — VERIFY; unverifiable as named — Appendix E6 #42]. F7's "established, with counter-evidence" status does not depend on this entry: the verified partial replication of Folkes (1985) (Appendix E2 #13) supplies the counter-evidence on its own.
+**Van Meurs et al. (2022)** is named in the operational instructions as counter-evidence to F7. It is not present in the supplied materials, and the V9.1 verification audit — run from six distinct search angles — could not recover any publication matching this name, year, and subject matter. The name is likely misremembered. It is recorded here as a required counter-source, but no finding is attributed to it until its source record and relevant result are supplied: Van Meurs et al. (2022) [CITATION NEEDED — VERIFY; unverifiable as named — Appendix E6 #42]. F7's "established, with counter-evidence" status does not depend on this entry: the verified partial replication of Folkes (1985) (Appendix E2 #13) supplies the counter-evidence on its own.
 
 ### Evidence hierarchy
 
@@ -1818,11 +1282,11 @@ The experiments may produce different patterns. The interpretation of each is st
 
 | Outcome pattern | Interpretation | What is retained | What is narrowed or rejected |
 |---|---|---|---|
-| Neither legitimacy nor burden changes | The premise label has no measurable effect in the tested conditions | F8 and F9 remain as conceptual and argumentative findings | The psychological transmission claim is rejected for the tested conditions; the paper retains F8 and F9 as established but does not claim a measurable lexical effect |
-| Legitimacy changes but burden does not | The label affects credibility, not procedural position | F9 remains as an argumentative finding; the credibility component of H1a is supported | The burden-shifting component of H1a is rejected; RQ3 is answered negatively |
-| Burden changes but legitimacy does not | The label affects procedural position, not credibility | F8 and F9 are both supported at the argumentative level; the burden-allocation component of H1a is supported; RQ3 is answered positively | The credibility component of H1a is rejected |
+| Neither legitimacy nor burden changes | The premise label has no measurable effect in the tested conditions | F8 and F9a remain as conceptual and argumentative findings | The psychological transmission claim is rejected for the tested conditions; the paper retains F8 and F9a as established but does not claim a measurable lexical effect |
+| Legitimacy changes but burden does not | The label affects credibility, not procedural position | F9b remains as an argued finding; the credibility component of H1a is supported | The burden-shifting component of H1a is rejected; RQ3 is answered negatively |
+| Burden changes but legitimacy does not | The label affects procedural position, not credibility | F8, F9a, and F9b are all supported at the argumentative level; the burden-allocation component of H1a is supported; RQ3 is answered positively | The credibility component of H1a is rejected |
 | Both change | The label affects both credibility and procedural position | Both components of H1a are supported; RQ3 is answered positively; the paper's account of the *premise mechanism* is empirically strengthened | Nothing in the paper is narrowed by this result; the paper has additional evidence for its account |
-| Reverse burden effect (label increases perceived responsibility on the *proponent*) | The label activates the proponent's obligation to defend, not the challenger's | F9 remains as an argumentative finding about *some* forms of premise designation; the specific prediction of H1a is disconfirmed | The proposed direction of the burden-shifting effect is rejected; the paper must revise the claim that premise designation typically shifts burden *toward* the challenger |
+| Reverse burden effect (label increases perceived responsibility on the *proponent*) | The label activates the proponent's obligation to defend, not the challenger's | F9b remains as an argued finding about *some* forms of premise designation; the specific prediction of H1a is disconfirmed | The proposed direction of the burden-shifting effect is rejected; the paper must revise the claim that premise designation typically shifts burden *toward* the challenger |
 | Context-dependent effect | The label's effect depends on moderators (source, expertise, institutional setting) | The mechanism is conditional; the paper's claim that "the effect depends on context" (§6.6) is confirmed | The claim that the label has a general effect is narrowed to the moderator conditions tested |
 
 ### 6.10.2 H1b — reason label
@@ -1836,7 +1300,7 @@ The experiments may produce different patterns. The interpretation of each is st
 
 ### 6.10.3 RQ3 — perceived locus of justification
 
-RQ3 is tested separately from H1a, and its result is interpreted separately. A positive result supports F9's psychological component without affecting H1a's credibility component. A null result leaves F9 as an argumentative finding without a demonstrated psychological correlate. A reverse result — the label increases perceived responsibility on the proponent — is possible and would count as evidence against the proposed direction of effect.
+RQ3 is tested separately from H1a, and its result is interpreted separately. A positive result supports F9b's psychological component without affecting H1a's credibility component. A null result leaves F9b as an argued finding without a demonstrated psychological correlate. A reverse result — the label increases perceived responsibility on the proponent — is possible and would count as evidence against the proposed direction of effect.
 
 ### 6.10.4 General interpretive rules
 
@@ -1848,7 +1312,7 @@ Mediation analysis, where conducted, must be interpreted with the same caution. 
 
 ## 6.11 Conclusion: acceptance and justification
 
-The existing psychological literature demonstrates that presupposition, normative wording, reason-giving, source credibility, and perceived institutional legitimacy can affect judgments or behaviour under specified conditions. It does not yet show that the isolated words *premise* and *reason* produce the exact legitimizing effects proposed in Parts I and II, nor that falsifiability wording by itself operates as a gatekeeper. The distinction between F9 (established argumentative pattern) and RQ3 (untested psychological question) must be preserved.
+The existing psychological literature demonstrates that presupposition, normative wording, reason-giving, source credibility, and perceived institutional legitimacy can affect judgments or behaviour under specified conditions. It does not yet show that the isolated words *premise* and *reason* produce the exact legitimizing effects proposed in Parts I and II, nor that falsifiability wording by itself operates as a validation criterion. The distinction between F9b and F9c (argued findings) and RQ3 (untested psychological question) must be preserved.
 
 A proposition may be presented as justified, perceived as justified, accepted as justified, and acted upon because it is perceived as legitimate. These are four different events. None of the latter three, by itself, proves the first.
 
@@ -1895,18 +1359,22 @@ If any of these alternatives explains the pattern better than the lexical-label 
 
 The argument is defeasible. It should be narrowed or revised under the following conditions:
 
-1. **Premise experiment (H1a):** If controlled experiments find no meaningful difference between "premise" and matched neutral labels, the paper should not claim a direct lexical legitimizing effect. It may retain F3, F4, and F9 as argumentative findings but not an audience effect.
+1. **Premise experiment (H1a):** If controlled experiments find no meaningful difference between "premise" and matched neutral labels, the paper should not claim a direct lexical legitimizing effect. It may retain F3, F4, and F9a as argumentative findings but not an audience effect.
 2. **Reason experiment (H1b):** If "reason" does not increase justificatory judgments relative to matched causal descriptions, the argument should focus on semantic ambiguity and equivocation rather than a measured psychological effect.
-3. **Burden-shifting experiment (RQ3):** If premise designation does not shift perceived locus of justification, F9 remains an argumentative finding but the paper should not claim that the shift is experienced by audiences. This is the seventh defeater, named here because it is the one most specific to the paper's distinctive extension.
+3. **Burden-shifting experiment (RQ3):** If premise designation does not shift perceived locus of justification, F9b remains an argued finding but the paper should not claim that the shift is experienced by audiences. *This is the defeater most specific to the paper's distinctive extension.*
 4. **Institutional corpus:** If representative corpus analysis shows that premises are usually explicitly provisional, accompanied by evidence, and routinely open to challenge, the claim of unexamined foundational authority should be narrowed to particular contexts.
 5. **Falsifiability corpus:** If textbooks and institutions consistently present falsifiability as one criterion among several, and there is little evidence of exclusionary shorthand, the gatekeeper hypothesis should be restricted to identifiable settings.
 6. **Alternative labels:** If "hypothesis," "claim," "principle," or "scientific" produces the same or stronger effects, the theoretical explanation should shift from the specific words to the broader category of authority-signalling labels.
 7. **Countervailing effects:** If authoritative phrasing increases scrutiny or resistance rather than acceptance in a given context, that result must be incorporated rather than dismissed as an anomaly.
-8. **Burden-shifting scope:** If burden-shifting proves to be a general property of argumentative positioning rather than a specific effect of premise designation, F9 should be revised to reflect that broader scope or dropped from the paper's findings.
+8. **F9b as general property:** If burden-shifting proves to be a general property of argumentative positioning rather than a specific effect of premise designation, F9b should be revised to reflect that broader scope or dropped from the paper's findings.
+9. **F9c — removal:** If positioning a proposition as a starting point did not reduce the likelihood of its being reexamined, F9c would be weakened.
+10. **Falsifiability and validity as the same property (F10):** If it could be shown that falsifiability and validity are the same property — that a statement's being falsifiable entailed its being valid — F10 would be refuted. No such entailment has been demonstrated.
+11. **The domain argument (F10):** If it could be shown that mathematics, historical reconstruction, taxonomy, and conceptual analysis are not valid forms of inquiry, the domain argument in §5.4 would be weakened. The argument does not depend on the claim that these domains are sciences in every sense; it depends on the claim that they are valid forms of inquiry whose validity does not rest on falsifiability.
+12. **Popper's concession (F10):** If Popper's acknowledgment that non-scientific ideas can be enlightening and valuable could be read as consistent with the validation use of the criterion, the third move in §5.4 would be weakened.
 
-The third defeater — the burden-shifting defeater — is particularly relevant to the paper's distinctive extension. If audiences do not experience a burden shift, the psychological component of H1a must be rejected or narrowed. The argumentative pattern identified in F9 may remain conceptually useful, but the proposed measurable psychological correlate would not be supported.
+If the trials of the word *premise* find nothing, the claim of a charm upon hearers is abandoned, though the argumentative fact of the shifted burden remains. If the word *reason* does not move the judgement of justification, the case narrows to an ambiguity of the tongue, which is a fact of grammar and safe from experiment. If the burden is not felt, it is none the less laid. If a census of usage should find premises usually marked as provisional and usually accompanied by their evidence, the charge of the unexamined foundation must withdraw to particular houses. If other labels outperform these, the explanation must ascend to the genus. If authoritative phrasing should provoke scrutiny rather than sleep, that too is a finding, to be kept and not explained away. And if the shifting of burdens should prove to be the common property of argumentative positioning rather than the particular act of the word *premise*, then the mechanism must be re-entered under its own name, and not under the word's.
 
-If the trials of the word *premise* find nothing, the claim of a charm upon hearers is abandoned, though the argumentative fact of the shifted burden remains. If the word *reason* does not move the judgement of justification, the case narrows to an ambiguity of the tongue, which is a fact of grammar and safe from experiment. If the burden is not felt, it is none the less laid. If a census of usage should find premises usually marked as provisional and usually accompanied by their evidence, the charge of the unexamined foundation must withdraw to particular houses. If the textbooks present the criterion as one among several, the gatekeeping must be sought in particular gatehouses. If other labels outperform these, the explanation must ascend to the genus. If authoritative phrasing should provoke scrutiny rather than sleep, that too is a finding, to be kept and not explained away. And if the shifting of burdens should prove to be the common property of argumentative positioning rather than the particular act of the word *premise*, then the mechanism must be re-entered under its own name, and not under the word's.
+That paragraph used a word — *charm* — whose claim the findings cannot carry: the claim of a charm upon hearers is precisely what the trials above would retire. The word's full sense, and its price, are stated in the Coda.
 
 ## 7.5 The risk of conceptual overreach
 
@@ -1924,13 +1392,15 @@ A question the paper must ask itself:
 
 > Could the paper be using the designation of an argument as a *premise*, a *reason*, or a *finding* to make that argument appear more established than it is?
 
-This is not a rhetorical question. The paper uses all three designations. It calls F1–F9 *findings* and distinguishes them from *hypotheses* and *research questions*. It calls §5 a *historical reconstruction* and distinguishes it from *background*. It carries the three texts forward as *reproduced text* and distinguishes them from *supplementary analysis*. Each of these designations could function as a premise designation or a burden-shifting move.
+This is not a rhetorical question. The paper uses all three designations. It calls F1–F10 *findings* and distinguishes them from *hypotheses* and *research questions*. It splits F9 into three components precisely because the bundling would overclaim. It calls §5 a *historical reconstruction* and distinguishes it from *background*. It carries the two texts forward as *reproduced text* and distinguishes them from *supplementary analysis*. It marks F9b, F9c, and F10 as *argued against the dominant reading*, and marks F1, F2, F5, F6, F7, F9a as *established*. Each of these designations could function as a premise designation or a burden-shifting move.
 
-Three safeguards are applied. First, each finding's method is stated in §2.1. Second, each hypothesis and research question is explicitly marked as untested. Third, the paper's own conclusion is stated in terms of what its evidence establishes, not in terms of what its designations imply. These safeguards do not guarantee that the paper has avoided the error it criticizes; they make the error visible if it occurs. The reflexive examination is not a way of pre-emptively immunizing the paper from criticism. It is a way of making the paper's own attributed authority available for examination.
+Three safeguards are applied. First, each finding's method is stated in §2.1. Second, each hypothesis and research question is explicitly marked as untested. Third, the paper's own conclusion is stated in terms of what its evidence establishes, not in terms of what its designations imply. These safeguards do not guarantee that the paper has avoided the error it criticizes; they make the error visible if it occurs.
+
+The same test falls on the Coda. The stronger reading stated there is the most attractive claim the paper could make, and therefore the most dangerous: printed in the main text, it would sit in the findings' chair. It is printed after the argument has closed, marked as a reading, and priced in the paper's own currency — what would establish it, and what would defeat it. The paper designates it speculative; here, the designation is exact.
 
 ## 7.8 Reflexive conclusion
 
-The paper's central principle applies to itself. Its three cases do not become a unified phenomenon merely because they are placed under one title. Its corpus examples do not establish prevalence merely because they are vivid. Its psychological model does not become a causal finding merely because the pathway is plausible. Its criticism of Popper does not become an adequate alternative merely because falsification has limitations. The reproduction of the three texts does not make them correct; it makes them the object of the paper's own analysis. Its designation of F9 as an *established finding* does not make F9 established; the method stated in §2.1 must bear that weight.
+The paper's central principle applies to itself. Its three cases do not become a unified phenomenon merely because they are placed under one title. Its corpus examples do not establish prevalence merely because they are vivid. Its psychological model does not become a causal finding merely because the pathway is plausible. Its criticism of Popper does not become an adequate alternative merely because falsification has limitations. Its designation of F9b, F9c, or F10 as argued findings does not make them established; the argument stated in §3.6 and §5.4 must bear that weight. Its designation of the Coda as a *stated reading* does not make the reading established; the pricing table in Coda 3 must bear that weight.
 
 The strongest version of the thesis is deliberately limited: different linguistic and methodological mechanisms can create conditions in which attributed authority is mistaken for demonstrated authority; the extent and effects of that tendency vary by context and require direct evidence.
 
@@ -1954,29 +1424,59 @@ The three mechanisms are related in consequence but distinct in operation.
 The four analytical levels (lexical, institutional, psychological, epistemic) distinguish *evidence*. The three-tier vocabulary (designated, attributed, demonstrated) distinguishes *authority*. Both are necessary and they are orthogonal.
 
 - A *lexical* finding can establish the *designated* authority of a term (F1).
-- An *institutional* finding can document the *designated* authority of the term in practice (F3, F4, F9).
+- An *institutional* finding can document the *designated* authority of the term in practice (F3, F4, F9a).
 - A *psychological* experiment can test *attributed* authority (H1a, H1b, RQ3).
-- An *epistemic* argument can establish *demonstrated* authority (F2, F5, F6, F8).
+- An *epistemic* argument can establish *demonstrated* authority (F2, F5, F6, F8, F10).
 
 F8 follows: **classification is not validation**. The paper's sharper formulation is: **attributed authority is not demonstrated authority**. The reflexive examination in §7 applies the same principle to the paper itself.
 
 ## 8.3 Burden-shifting and psychological legitimization
 
-F9 establishes that premise designation can shift the procedural burden of justification in argumentative practice. RQ3 asks whether audiences experience a corresponding shift. The two are related but distinct.
+F9b and F9c establish that premise designation can shift the procedural burden of justification and can remove the proposition from examination in argumentative practice. RQ3 asks whether audiences experience a corresponding burden shift. The two are related but distinct.
 
-The five audience inferences specified in §3.6.3 divide into two groups — foundational/credibility inferences (1–3) and burden-allocation inferences (4–5) — and this division maps onto the split in the audience-inference stage of the psychological model and onto the two separable predictions of H1a. A finding that the premise label shifts one inference without the other is not an anomaly; it is a finding about the mechanism's reach.
+The five audience inferences specified in §3.6.8 divide into two groups — foundational/credibility inferences (1–3) and burden-allocation inferences (4–5) — and this division maps onto the split in the audience-inference stage of the psychological model and onto the two separable predictions of H1a. A finding that the premise label shifts one inference without the other is not an anomaly; it is a finding about the mechanism's reach.
 
 Three outcomes are possible for RQ3, and each has a different implication for the paper's overall thesis.
 
 - **If RQ3 is supported:** the paper has a further documented mechanism — the burden-shifting transmission — alongside the credibility transmission tested by H1a.
-- **If RQ3 is null and H1a's credibility component is supported:** the paper's premise mechanism operates on credibility but not on procedural position. The paper retains F9 as an argumentative finding and drops the claim that it has a psychological correlate.
+- **If RQ3 is null and H1a's credibility component is supported:** the paper's premise mechanism operates on credibility but not on procedural position. The paper retains F9b as an argued finding and drops the claim that it has a psychological correlate.
 - **If RQ3 is supported and H1a's credibility component is null:** the paper's premise mechanism operates on procedural position but not on credibility. This would be theoretically interesting: it would suggest that premise designation affects *who must justify*, not *how credible* the proposition is.
 
 None of these outcomes affects F8. Each would refine the paper's account of how classification and attributed authority are related.
 
-## 8.4 Independent validation
+## 8.4 Asymmetry
 
-The paper's governing principle is not that classification is illegitimate. It is that classification and validation are analytically distinct, and that the passage from one to the other is not automatic. The three mechanisms and the two pattern-level findings (F8, F9) describe how the passage can occur. The hypotheses and the research question specify how the passage might be tested. The reflexive examination specifies what would count against the paper's account.
+The three mechanisms are not symmetrical in their consequences. The asymmetry is the paper's final claim, and it is what makes the falsifiability critique the centre of the paper rather than its longest section. The asymmetry is conditional: it concerns what happens *if* the mistake is made.
+
+**Premise-laundering can be corrected within an argument.** A challenger who recognizes that a contestable proposition has been placed in the premise position can reopen it. The cost is conversational or institutional (§3.6.2), but the correction is possible. The argument continues after the correction; the participants are still in the same discussion.
+
+**Semantic conflation can be corrected within an inference.** A hearer who recognizes that an explanatory sense of *reason* has been substituted for a justificatory sense can ask: *which sense is being used here, and does the evidence establish that sense?* The correction is possible within the inferential move. The conclusion may still be drawn; only the entailment from the explanation to the justification is severed.
+
+**Falsifiability-as-validation cannot be corrected within the argument, because the argument is never admitted.** A proposal that has been excluded at the point of admission has no hearing in which the correction can be made. The criterion has determined the outcome before any argument has been heard. The correction would require reopening the admission decision — which is not an argumentative correction but an institutional one, and may be impossible.
+
+The asymmetry is conditional because the paper does not claim that the mistake is ubiquitous. It claims that the mistake is a mistake (F10), and that *if* it is made, it is the least correctable of the three. The conditional structure is not a hedge; it is the correct logical form of the claim. The philosophical argument in §5.4 establishes that the mistake is a mistake. The asymmetry in this section establishes that the mistake, when made, is the most consequential of the three.
+
+The stronger reading of the Coda, if it is ever established, would deepen the asymmetry rather than disturb it: a hearer whose frame has been captured cannot pay the conversational cost of reopening a laundered premise, because reopening is no longer available as a move within the discussion. For such a hearer, premise-laundering would approach the correctionlessness of gatekeeping. That reading is stated and not claimed (Coda); the asymmetry stands without it.
+
+This asymmetry has three consequences for the paper's argument.
+
+First, the falsifiability critique is not one of three equal contributions. It is the paper's most consequential claim, because the error it identifies operates at a point where correction is least available. The length of Part III — which an editor might find excessive in a paper on three mechanisms — is proportionate to the asymmetry.
+
+Second, the paper's emphasis on the level-sensitive framework (§5.9) is not a matter of balance. The framework is the instrument by which the error can be recognized *before* it produces the misclassification. It is the only available correction for a mechanism whose correction *after* the fact is impossible.
+
+Third, the paper's three mechanisms remain distinct in their operations but the paper's overall thesis is asymmetric. The claim that classification is not validation (F8) is the conceptual claim. The claims that premise-laundering shifts procedural position and removes the proposition from examination (F9b, F9c) are argumentative claims. The claim that falsifiability is a classification criterion (F10) is the claim with the most urgent corrective implication, because its failure mode has no internal remedy.
+
+## 8.5 Suggestions, not consequences
+
+The paper offers four suggestions. They are stated as suggestions, not as consequences of the argument, because the paper's argument does not by itself establish them. A reader who accepts the argument might reasonably think a suggestion follows, or might reasonably think it does not. The suggestions are offered; they are not claimed.
+
+**For argumentation pedagogy.** The paper suggests that position-analysis could be taught alongside content-analysis. The standard syllabus asks whether the premise is true and whether the inference is valid. The paper's argument suggests a further question: at what point in the argument was this proposition examined — if ever? Whether position-analysis should be taught, and whether teaching it would improve outcomes, are questions the paper does not address.
+
+**For legal reasoning.** The paper suggests that the four-burden vocabulary of §3.6.2 (logical, conversational, institutional, psychological cost) could serve as a candidate vocabulary for procedural position. Whether courts already have equivalent vocabulary, and whether adopting this one would improve legal reasoning, are questions the paper does not address.
+
+**For philosophy of science.** The paper suggests that the distinction between classification and validation should be maintained in the philosophy of science itself. A criterion can classify a statement as belonging to a class; it cannot establish the statement's truth, adequacy, or scientific validity. The confusion of the two is not a confusion about the criterion; it is a confusion about what criteria are for. The level-sensitive framework of §5.9 is the instrument for maintaining the distinction: it specifies which criteria apply at which level, and it makes the misapplication visible. The framework is not a solution; it is a diagnostic.
+
+**For general use.** The paper suggests that the three-tier vocabulary (designated, attributed, demonstrated) could serve as a portable diagnostic. The suggestion is not a consequence of the argument; it is a characterisation of the vocabulary. A reader who finds the vocabulary useful has a tool; a reader who does not has lost nothing the paper claimed.
 
 ---
 
@@ -1984,15 +1484,117 @@ The paper's governing principle is not that classification is illegitimate. It i
 
 The paper has distinguished four events: a proposition is **designated** as a foundation; it is **presented** as justified; it is **perceived** as legitimate; and it is **demonstrated** to be justified. These events may coincide, but they need not.
 
-F1–F9 state the findings. *Premise* and *introduction* are not formally synonymous (F1). Validity does not entail soundness (F2). Institutional discourse uses *premise* to designate foundations across domains (F3). Institutional actors also reject and contest premises (F4). *Reason* has explanatory, motivating, and normative functions, and the first two do not entail the third (F5). Falsifiability is a demarcation criterion, not a criterion of truth, and it depends on auxiliary assumptions, survives anomalies, and is evaluated over time (F6). Framing effects are real and conditional, with counter-evidence (F7). Therefore classification is not validation (F8). Premise designation can shift the procedural burden of justification in argumentative practice (F9).
+F1–F10 state the findings. *Premise* and *introduction* are not formally synonymous (F1). Validity does not entail soundness (F2). Institutional discourse uses *premise* to designate foundations across domains (F3). Institutional actors also reject and contest premises (F4). *Reason* has explanatory, motivating, and normative functions, and the first two do not entail the third (F5). Falsifiability is a demarcation criterion, not a criterion of truth (F6). Framing effects are real and conditional, with counter-evidence (F7). Therefore classification is not validation (F8). Premise designation positions a proposition as an accepted starting point (F9a, established); the positioning can shift the conversational or institutional burden of justification toward the challenger (F9b, argued); and the positioning can remove the proposition from the space of things the argument examines (F9c, argued). Falsifiability is a classification criterion, not a validation criterion: it classifies statements as belonging to the class of empirically testable theories, and it does not establish their truth, explanatory power, or scientific validity (F10). Science does not need to be falsifiable to be valid.
 
-H1a, H1b, and RQ3 are the paper's specified extensions. H1a tests whether the label *premise* affects perceived foundational legitimacy and perceived burden allocation. H1b tests whether *reason* affects perceived normative justification. RQ3 tests whether *premise* designation shifts perceived locus of justification. All three remain untested. Their failure would not affect F8 or F9; their success would add evidence for a psychological transmission mechanism.
+H1a, H1b, and RQ3 are the paper's specified extensions. H1a tests whether the label *premise* affects perceived foundational legitimacy and perceived burden allocation. H1b tests whether *reason* affects perceived normative justification. RQ3 tests whether *premise* designation shifts perceived locus of justification. All three remain untested. Their failure would not affect F8, F9a–c, or F10; their success would add evidence for a psychological transmission mechanism.
 
-The limits are explicit. The corpus is purposive, not representative. The psychological literature establishes adjacent effects, not the isolated lexical effect. The historical reconstruction establishes F6 rather than surveying all post-Popperian literature. The reproduced texts are the paper's argument, not independent confirmation of it. The reflexive examination discloses the paper's own assumptions and defeaters. The paper's psychological programme is one of two companion inquiries; neither is a prerequisite for the paper's conclusion.
+The limits are explicit. The comparative thesis of §1.1 is typological, not statistical: the paper argues that misplaced position is a distinct failure mode, not that it is more frequent than content-failure. The corpus is purposive, not representative. The psychological literature establishes adjacent effects, not the isolated lexical effect. The argument of §5 establishes F6 and F10 rather than surveying all post-Popperian literature. The reproduced texts are the paper's argument, not independent confirmation of it. The reflexive examination discloses the paper's own assumptions and defeaters.
+
+The asymmetry is the paper's final claim, and it is conditional. Premise-laundering can be corrected within an argument. Semantic conflation can be corrected within an inference. Falsifiability-as-validation cannot be corrected at all, because the argument is never admitted. *If* the mistake is made, it is the least correctable of the three. The paper does not claim that the mistake is ubiquitous. It claims that the mistake is a mistake, and that its consequences are the most severe.
 
 A foundation must be examined before the structure built upon it is granted authority. An explanation must be distinguished from the justification of what it explains. A methodological instrument must remain proportionate to its purpose. And the acceptance of a proposition — whether by an individual, an institution, or a scientific community — must never be mistaken for its independent demonstration.
 
 A classification may be legitimate, its use may be appropriate, and its psychological effects may be real. None of those facts, separately or collectively, establishes the truth or adequacy of the proposition being classified.
+
+---
+
+# Coda — The Stronger Reading, Stated and Not Claimed
+
+## Coda 1 — What this coda is, and the two rules
+
+This coda states a stronger reading of the premise findings than the paper has claimed. The paper's argument is complete at §9. What follows is not a finding, not a hypothesis, not a research question, and not a proposal for a new protocol. It is a reading — an interpretation of F9a, F9b, and F9c that the paper finds illuminating, states in its strongest form, prices against what would establish it and what would defeat it, and then leaves where it found it: outside the body's evidential apparatus.
+
+The coda, as stated, carries no evidential weight anywhere in the paper. This is a claim about the coda's status, not about its consequences. If a strength is later established (Coda 2.5), the body's findings are reinterpreted — not corrected. Reinterpretation is the reading's contribution, not its condition: the findings of §§3–9 stand whether the coda is accepted, refused, or ignored, and the coda never becomes a finding. A reading established is still a reading — what it adds is understanding, not premises.
+
+Two rules govern what follows. First, this coda is a reading, not a finding: it belongs to none of the four statuses of §2.1 and carries no evidential weight anywhere in the paper. Second, the deletion test applies: remove this coda, and every finding, hypothesis, defeater, and conclusion of the paper stands unchanged. Whatever cannot survive deletion is load-bearing; this coda can, and that is the only reason it is permitted to say what it says.
+
+## Coda 1.5 — On its own placement
+
+This coda occupies the last substantive position in the paper, and the paper knows what the last position is worth. Its own thesis says that position confers authority independently of demonstrated warrant: a proposition at the foundation of an argument is treated as already examined, and a word at the end of a book is treated as its conclusion. The reader is therefore entitled to ask whether the coda is laundering itself — whether the paper has placed its most attractive speculation in the one slot where scrutiny is lowest and the pressure to accommodate highest.
+
+The paper's answer is not denial but pricing. The coda is designated a reading, in a register the findings table does not recognize (§2.4). It is subject to the deletion test: removed, every finding, hypothesis, and defeater stands. It carries its own defeat conditions (Coda 3). And it accepts a promotion rule: it may enter the paper's argumentative structure only after the experiment that would test it has been run. Position will give this coda an authority it has not earned; the paper can do nothing about that except say so. The reader who is most persuaded by the last pages should be the most careful with them. That instruction is the paper's thesis, working on the reader one last time, in the paper's favour — and the reader will have to decide whether being told so undoes it.
+
+## Coda 2 — The reading, in three strengths
+
+### Coda 2.1 — The anchors
+
+Nothing in this coda is unanchored. Each strength is one interpretive step beyond a component the body has already established or argued; the step is stated so that it can be refused.
+
+| Coda strength | The body's anchor | Anchor's status in the body | The one interpretive step |
+|---|---|---|---|
+| 1. The charm | F7's reason-giving line (Langer et al. 1978; Folkes 1985); F9c | Established, conditional; argued | F9c's removal-from-examination is a fact about *attention*, not only about argumentative structure |
+| 2. The accommodation | F7's presupposition line (Thoma et al. 2023); F3; F9b | Established; corpus; argued | "We start from the premise that P" is a presuppositional update of common ground (Stalnaker 1970; 2002; Lewis 1979), and the burden-shift is accommodation's bookkeeping |
+| 3. The frame | §1.7 (Bourdieu); F9c; §8.4 | Specification; argued; conditional claim | Repeated designation biases the hearer's aperture: removal becomes unaskability |
+
+The **one-step rule**: a reviewer who accepts an anchor and refuses its step has made a specific objection the coda can register — exactly as F9a, F9b, and F9c are separable in the body (§2.1, §3.6.4). The coda extends the paper's separability discipline to its own speculation.
+
+### Coda 2.2 — The first strength: the charm
+
+Langer, Blank, and Chanowitz (1978) found that a largely redundant reason could secure compliance with a small request — provided the reason was not inspected (F7; Appendix E2 #12). Folkes (1985) is the standing reminder that the charm fails under examination (Appendix E2 #13). On the first-strength reading, the premise label operates in this register. It does not persuade anyone that the proposition is true. It marks the proposition as already settled, and a settlement cue is obeyed precisely when it is not examined. F9c — removal from examination — becomes, on this reading, a fact about attention: the hearer is not blocked from asking; the hearer never arrives at the question. The word is a charm, and a charm works on those who do not look at it.
+
+### Coda 2.3 — The second strength: the accommodation
+
+Stalnaker (1970; 2002) distinguishes what an assertion proposes from what a presupposition takes for granted. An assertion puts a proposition up for acceptance; the hearer may accept or reject it. A presupposition presents its content as already accepted — as part of the common ground of the conversation — and the hearer who does not object has, by the ordinary rules of conversation, let it in. Lewis (1979) named the mechanism: accommodation, the hearer's silent repair of a background that the utterance presumed. Thoma, Becker, and Kißler (2023) found that where addressees accommodate, presuppositions can persuade more than assertions (Appendix E4 #23).
+
+"We start from the premise that P" does not assert P. It treats P as the common ground from which the discussion proceeds. On the second-strength reading, premise-laundering is an accommodation trap. The hearer who does not object at the threshold has ratified a change of background that was never put to them as a question; and the cost of objecting rises immediately after, because objecting to a background costs more than objecting to a claim. F9b — the burden-shift — is then not a convention that institutions happen to observe. It is bookkeeping: once P is background, a challenger must first repair the background before arguing in it. The challenger is not answered; the challenger is made late.
+
+This is the mechanism that the five-stage model of §6.3 leaves unspecified at its second stage. "Presentation within a recognized framework" describes the move; accommodation describes how the move is received. The recognized framework is the common ground, and the presentation is the update.
+
+### Coda 2.4 — The third strength: the frame
+
+If accommodation is repeated — across arguments, institutions, years — the background itself is altered. Bourdieu distinguishes doxa from orthodoxy and heterodoxy: what goes without saying, what is said and defended, what is said against (Bourdieu 1977; see §1.7). Symbolic power is the power to constitute the given, and it operates through the dominated's acts of recognition (§1.7). Goffman (1974) drew the consequence for perception: a frame determines what questions are askable within an encounter at all. Kuhn (1962/1970) drew it for science: normal science does not test its paradigm; it works puzzles inside it, and the paradigm is reproduced by practice, not by examination.
+
+On the third-strength reading, premise-laundering is not one argument's trick but a culture's weather. The paper has described the aperture structurally: the argument's examination has a field of view, and the premise slot falls outside it (§3.6.3). The stronger reading relocates the aperture. The field of view is the hearer's. Repeated designation does not merely keep this proposition out of this argument; it biases what the hearer's examination can take in. The question is not skipped; it has become unaskable. This is the sense in which the word *spell* would be exact rather than ornamental: a spell does not argue. It rearranges the room in which arguing happens.
+
+The strong form of this reading is what the vernacular calls brainwashing. The vernacular term smuggles in a manipulator, and the manipulator is the one thing the reading does not need. Symbolic violence needs no caster; it operates through recognition (§1.7). Institutions that designate premises in good faith, believing them already examined, launder them as effectively as any cynic — more effectively, since their sincerity is itself a credential. No one needs to intend the spell. This makes the reading more alarming, not less: an intended spell could be traced and blamed; the designation does its work whoever utters it.
+
+### Coda 2.5 — What the reading would re-read
+
+The coda is compatible with the body and depends on none of it; but if any strength is established, the body is not untouched. If the first strength: the corpus (F3) becomes a record of settlement cues, and F9c was never only a fact about arguments. If the second: the four burdens (§3.6.2) acquire a mechanism — the conversational burden is the common ground's repair cost, and "the challenger is made late" becomes a consequence of accommodation rather than an observation of practice. If the third: the asymmetry (§8.4) changes scale — the paper's typological thesis becomes one instance of a general economy of unaskability, and the paper's own refusal to psychologize becomes legible as the discipline of a culture that has learned to keep its questions small. The coda states these re-reads so that the reader knows what the reading would buy. None of them is a correction. The body's findings are compatible with all three strengths and depend on none.
+
+## Coda 3 — The price
+
+The coda's discipline is that every strength must be priced. What would support it? What would defeat or narrow it? The pricing table is the coda's equivalent of the body's defeat conditions. It is where the reading becomes specific enough to be refused.
+
+| Strength | What would support it | What would defeat or narrow it |
+|---|---|---|
+| The charm (attention) | Lexical-isolation designs (Appendix C1) with attention measured as a moderator: the label's effect largest where attention is lowest | Folkes-style failures under inspection (§6.8); the §7.3 alternatives — fluency, demand characteristics; reverse effects (§6.6) |
+| **The accommodation (common ground)** | **Adaptation of the Thoma paradigm to argumentative texts: the same proposition presented as asserted, as presupposed, and as premise-designated, with acceptance and objection-cost measured on a common scale. Three measures of the availability of doubt: (i) the spontaneous generation of doubts about the designated proposition — what the reader would want to know more about, or would ask the author; (ii) memory for whether the proposition was asserted or given; (iii) the judged appropriateness of challenging the proposition.** | **No difference in how designated and asserted content is updated; RQ3's null (Appendix C3), which would leave the burden-shift structural only** |
+| The frame (doxa) | Repeated-exposure and longitudinal designs; indirect measures — recognition of contestability, spontaneous reexamination, the §6.7 probe ("was this proposition ever put to question?") | The §6.6 moderators — expertise, contested designations, distrusted sources — shrinking the aperture to particular hearers; any version of the reading that no outcome could touch |
+
+The three measures listed for the accommodation strength are the RQ4 of an earlier draft of the coda. They are listed here rather than formalized as a research question because a reading that is stated and not claimed does not become a hypothesis by being measurable. RQ4's measures can be run. RQ4's status as a research question would have given the reading a ladder rung it does not occupy. V14.2's discipline — no RQ4 in §2.6, no C5 in Appendix C — is retained: the reading's empirical content lives in this table, priced, not in the body's apparatus.
+
+Three consequences follow from the pricing.
+
+First, nothing in Appendix C currently tests the second and third strengths. C1 and C3 touch the first strength and the perception's edge of the second. A design of the same standing as C4 — offered, not load-bearing — could adapt the accommodation paradigm directly. Whether that study is run is not this paper's question.
+
+Second, the reading generalizes asymmetrically, like everything else in this paper. It fits the premise case best, because accommodation is the premise slot's native mechanism. It fits the reason case partially — the slide from explanation to justification is a movement between senses of a word, not an update of a background. For the falsifiability case the frame reading is at home, but it is partly the sociology of science's own finding (§5.8); the paper would be importing a result, not discovering one. This uneven fit is itself information: the reading is a lens, not a theorem.
+
+Third, the third strength, stated carelessly, is unfalsifiable in exactly the way F10 criticizes (§1.5): a claim that every hearer's every judgment confirms is a creed, not a finding. That is why it is stated here only in the priced form above — as a set of effects with conditions and defeaters, not as a picture of the age.
+
+## Coda 4 — Why the paper does not claim it
+
+Four reasons, in order of discipline.
+
+First, the level discipline of §1.3: claims about what happens in the mind of the hearer can be established only by the experimental method, and this paper's methods — lexicography, corpus, argument — stop one level short.
+
+Second, the deletion test of Coda 1: the paper's argument is complete without this reading, and what is not needed must not be load-bearing.
+
+Third, the reflexive test of §7.7. The stronger reading is the most attractive claim this material supports, and precisely for that reason the most dangerous. Stated in the main text, it would borrow the authority of the findings around it — the finding's chair at the table given to the speculation. That would be the paper's own error, performed on its own best idea. Stated here, marked as a reading, and priced, it can be judged on its own evidence, whenever that evidence exists.
+
+Fourth, the claim is strongest when it is not claimed. A reader who has taken the structural findings and then sees the frame for themselves has not been persuaded of the paper's point. They have experienced it: something stood in their background, unexamined, until a coda asked them to notice it.
+
+One rule governs promotion. The reading may enter the paper's argumentative structure — a section of §6, or a fourth part — only after an experiment of the kind priced in Coda 3 has been run. Until then it remains here, in the one register the findings table does not recognize, and the paper's argument proceeds without it.
+
+The paper has argued that the premise slot can remove a proposition from the argument's examination. The stronger reading is that, often enough, it removes the examination from the hearer. The first claim is this paper's. The second is stated here, and not claimed, so that when it is finally tested it will not already have been anyone's premise.
+
+## Coda 5 — The final reflexivity exercise
+
+Somewhere in §1, the reader took on board that misplaced position is a distinct failure mode. Somewhere in §2, the reader took on board that classification is not validation. Somewhere in §3, the reader took on board that premise designation positions a proposition, shifts the burden, and removes it from examination. Each was argued; but the reader did not wait for the arguments. The reader took them as the paper's starting points — which is to say, as premises — and proceeded from them.
+
+If the stronger reading is right, then the reader's passage through this paper is its cleanest exhibit. The reader has been accommodating the paper's designations while reading. The paper's findings have entered the reader's background, and the reader has proceeded from them. The paper cannot know whether this happened. Only the reader can check.
+
+That check — not the coda's claims — is the coda's purpose. The reader who notices that they have been accommodating the paper's premises has performed the paper's thesis on themselves. The reader who does not notice has lost nothing the paper claimed; the findings stand, and the coda's reading remains a reading. The paper's final move is not to assert the stronger reading but to invite the reader to notice whether the reading has been happening to them while reading.
 
 ---
 
@@ -2025,7 +1627,7 @@ A defensible prevalence claim requires a sampling frame. One option is to sample
 
 ## A5. Relation to the findings table
 
-The codebook is the instrument by which F3 and F4 are established. Each row in §3.4 is a coded instance. The sixteen cases are not a random sample; they are purposively selected to demonstrate the range of usage across domains. A representative corpus study would require the sampling frame in A4. Until that study is conducted, F3 is established as a usage pattern, not a prevalence estimate.
+The codebook is the instrument by which F3, F4, and F9a are established. Each row in §3.4 is a coded instance. The sixteen cases are not a random sample; they are purposively selected to demonstrate the range of usage across domains. A representative corpus study would require the sampling frame in A4. Until that study is conducted, F3 and F9a are established as usage patterns, not prevalence estimates.
 
 ## A6. Burden-shifting coding rule
 
@@ -2036,7 +1638,7 @@ The existing fifth assumption-smuggling criterion includes the possibility that 
 
 The codebook must distinguish evidence of an actual procedural allocation from an analyst's inference that a burden shift may be possible. **A burden shift should be coded only when the source material supports the inference that justificatory responsibility has moved in practice. The mere presence of the word *premise* is not sufficient.**
 
-F9 is not coded from the corpus. It is established by analysis of argumentative practice (§3.6) and illustrated by the House of Lords case (§3.5). The corpus's Q1/Q2 categories show that some premises are contested and rejected; they do not directly code burden-shifting. A dedicated burden-shifting corpus would require a different unit of analysis (the procedural position of the proposition, not the proposition itself) and a different sampling frame.
+F9b and F9c are not coded from the corpus. They are argued from analysis of argumentative practice (§3.6) and illustrated by the House of Lords case (§3.5). The corpus's Q1/Q2 categories show that some premises are contested and rejected; they do not directly code burden-shifting or removal. A dedicated burden-shifting corpus would require a different unit of analysis (the procedural position of the proposition, not the proposition itself) and a different sampling frame.
 
 ---
 
@@ -2048,15 +1650,15 @@ The sixteen cases in §3.4 are purposively selected. They establish that the pat
 
 ## B2. The psychological literature
 
-The studies cited in §6.8 establish adjacent effects. They do not isolate the words *premise* and *reason* as lexical causes. The experiments specified in Appendix C are designed to isolate the lexical variables. H1a, H1b, and RQ3 are separate; they are not combined into one omnibus hypothesis.
+The studies cited in §6.8 establish adjacent effects. They do not isolate the words *premise* and *reason* as lexical causes. The experiments specified in Appendix C are designed to isolate the lexical variables. H1a, H1b, and RQ3 are separate; they are not combined into one omnibus hypothesis. The Coda's pricing table (Coda 3) lists three measures for the accommodation strength — spontaneous doubts, memory for asserted-versus-given, judged appropriateness of challenge — but does not formalize them as a protocol; they are offered as what would test the accommodation reading, not as a test already designed.
 
 ## B3. The historical reconstruction
 
-The reconstruction in §5 is intended to establish F6, not to survey the entire post-Popperian literature. It omits developments in formal confirmation theory, in the sociology of science, and in the pragmatics of scientific language.
+The argument of §5 is intended to establish F6 and F10, not to survey the entire post-Popperian literature. It omits developments in formal confirmation theory, in the sociology of science, and in the pragmatics of scientific language. The Duhem–Quine problem is named in §5.5a; Kuhn and Lakatos are named in §5.10 but not developed. The reader who requires a fuller treatment is directed to the sources in Appendix E3.
 
 ## B4. The reproduced texts
 
-The texts in §§3.2, 4.2, and 5.2 are taken from the three individual source files. The changes applied to them were disclosed in the Note on the Texts. They are the paper's argument, not independent evidence for it. Where a reproduced passage asserts something the surrounding analysis disputes, the dispute is recorded outside it.
+The texts in §§3.2 and 4.2 are taken from the two individual source files. The changes applied to them were disclosed in the Note on the Texts. They are the paper's argument, not independent evidence for it. Where a reproduced passage asserts something the surrounding analysis disputes, the dispute is recorded outside it.
 
 ## B5. Evidence hierarchy for the psychological claims
 
@@ -2072,11 +1674,19 @@ Adjacent evidence motivates the hypotheses; direct manipulation of the target te
 
 ## B6. Limits of the burden-shifting claim
 
-F9 is an argumentative finding. It is established by analysis of argumentative practice and illustrated by the House of Lords case. It is not a psychological finding. RQ3 is untested. The four burdens (logical, conversational, institutional, psychological cost) are analytically distinguished, but the empirical relationship between them is not established. Burden-shifting's applicability to the reason and falsifiability cases is suggestive, not documented.
+F9b and F9c are argued findings. They are established by analysis of argumentative practice and illustrated by the House of Lords case. They are not psychological findings. RQ3 is untested. The four burdens (logical, conversational, institutional, psychological cost) are analytically distinguished, but the empirical relationship between them is not established. Burden-shifting's applicability to the reason and falsifiability cases is suggestive, not documented.
 
-## B7. The reflexive examination
+## B7. Limits of the falsifiability claim
 
-§7 discloses the paper's own assumptions, alternative explanations, and eight conditions under which the thesis should be narrowed or revised. These conditions are the paper's own defeaters. If any is met, the thesis must be revised.
+F10 is a philosophical claim. It does not depend on evidence of institutional practice. The five moves in §5.4 — different kinds of property; domain argument; Popper's concession; Salmon; level problem — are each argued from the criterion's own resources. The Duhem–Quine problem (§5.5a) is an additional limitation on the criterion's scope, but F10 does not depend on it. A corpus study of institutional practice would be informative but is not required for the argument.
+
+## B8. Limits of the Coda
+
+The Coda is a reading, not a finding. Its interpretive face is offered for its explanatory value; its empirical face is the three measures listed in Coda 3's pricing table for the accommodation strength. If hearers do not accommodate premise-designations, the accommodation strength narrows to the structural reading; the paper's argument is unaffected. The Coda is subject to the deletion test and the promotion rule (Coda 4).
+
+## B9. The reflexive examination
+
+§7 discloses the paper's own assumptions, alternative explanations, and twelve conditions under which the thesis should be narrowed or revised. These conditions are the paper's own defeaters. If any is met, the thesis must be revised.
 
 ---
 
@@ -2098,6 +1708,8 @@ F9 is an argumentative finding. It is established by analysis of argumentative p
 
 **Null and counterevidence patterns:** The interpretation of each outcome pattern is stated in §6.10.1.
 
+**Correspondence to the argued findings:** The credibility component of H1a tests a dimension of F9a. The burden-allocation component of H1a tests F9b. F9c is not tested by H1a; a future experiment would measure perceived removal from examination directly.
+
 ## C2. H1b — Reason-label experiment
 
 **Primary hypothesis (H1b):** An explanatory statement labelled "the reason" may be more likely than a matched "contributing factor" or "mechanism" statement to be interpreted as normatively justifying the decision being explained.
@@ -2116,7 +1728,7 @@ F9 is an argumentative finding. It is established by analysis of argumentative p
 
 **Primary outcome:** Perceived locus of justification ("Whose responsibility is it to establish that this proposition is acceptable — the person who introduced it, or the person who would challenge it?"). **Secondary outcomes:** Perceived procedural position (contributing vs. interrupting); perceived social cost of challenge; willingness to challenge; request for evidence.
 
-**Null result:** The premise label does not shift perceived locus of justification. This would leave F9 as an argumentative finding without a demonstrated psychological correlate. The paper would retain F9 but drop the claim that audiences experience the shift.
+**Null result:** The premise label does not shift perceived locus of justification. This would leave F9b as an argued finding without a demonstrated psychological correlate. The paper would retain F9b but drop the claim that audiences experience the shift.
 
 **Reverse result:** The premise label increases perceived burden on the *proponent* ("you called it a premise, so you must defend it"). This would count as evidence against the proposed direction of effect and must be reported as such.
 
@@ -2129,6 +1741,8 @@ F9 is an argumentative finding. It is established by analysis of argumentative p
 **Conditions:** Vary label (falsifiable, empirically testable, exploratory, not yet operationalized); status (one criterion vs. necessary gate); level (idea, method, experiment, result, publication); source (peer reviewer, university guide, scientific committee).
 
 **Outcomes:** Scientific seriousness, willingness to publish, fund, investigate, or exclude; perceived epistemic legitimacy; willingness to retain the proposal as an exploratory possibility.
+
+**Note on status:** C4 is offered as a future experiment. The paper's philosophical argument (F10) does not depend on it. C4 would test whether the confusion identified in F10 is widespread in reception — a different question from whether the confusion is a confusion.
 
 ## C5. General safeguards
 
@@ -2188,6 +1802,8 @@ The original wording is also ambiguous about whether "Monster Energy" refers to 
 20. Stanford Encyclopedia of Philosophy, "Science and Pseudo-Science." https://plato.stanford.edu/entries/pseudo-science/
 21. Katherine Dormandy and Bruce Grimley (2024), "Gatekeeping in Science: Lessons from the Case of Psychology and Neuro-Linguistic Programming," *Social Epistemology*, 38(3), 392–412. https://doi.org/10.1080/02691728.2024.2326828 [Verified in V9.1 against the published text — open access; the abstract confirms the premise-language verbatim. Flag removed.]
 22. Claus Beisbart (2026), "It's the Level, Stupid—Gatekeeping in Science and the Demarcation Problem," *Synthese*, 208(1), article 25. https://doi.org/10.1007/s11229-026-05665-z [Verified in V9.1: published 2 July 2026, open access, the flagship article of the topical collection "Gatekeeping in Science," edited by Katherine Dormandy and Eric Winsberg. The DOI was resolved against the SpringerLink record; the alternative (10.1007/s11229-024-04559-2) belongs to Hugh Desmond (2024), "Gatekeeping should be conserved in the open science era," *Synthese*, 203(5), article 160, and must not be used for this entry. Flag removed.]
+22a. Pierre Duhem (1954), *The Aim and Structure of Physical Theory*, trans. Philip P. Wiener. Princeton University Press. (French original: *La théorie physique: son objet, sa structure*, 1906.)
+22b. W. V. O. Quine (1951), "Two Dogmas of Empiricism," *The Philosophical Review*, 60(1), 20–43. https://doi.org/10.2307/2181906
 
 ## E4. Psychological framing, authority, and compliance
 
@@ -2200,12 +1816,18 @@ The original wording is also ambiguous about whether "Monster Energy" refers to 
 
 ## E5. Literature additions
 
+*Note on numbering.* Entries 29–34 are the V6 literature additions. Entries 43–46 are the Coda additions (Lewis 1979; Bourdieu 1977; Goffman 1974; Kuhn 1962/1970). The gap (35–42) is filled by Appendix E6, whose V9.1 audit trail the paper's flags cite by those numbers; the four coda entries are listed here rather than under E6 to preserve that trail. Read the numbering as continuous across E5 and E6, not as a gap within E5.
+
 29. Pierre Bourdieu (1991), *Language and Symbolic Power*. Harvard University Press.
 30. J. L. Austin (1962), *How to Do Things with Words*. Oxford University Press.
 31. John R. Searle (1969), *Speech Acts: An Essay in the Philosophy of Language*. Cambridge University Press.
 32. Robert Stalnaker (1970), "Pragmatics," *Synthese*, 22, 272–289.
 33. Robert Stalnaker (2002), "Common Ground," *Linguistics and Philosophy*, 25, 701–721.
 34. H. P. Grice (1975), "Logic and Conversation," in *Syntax and Semantics 3: Speech Acts*, 41–58.
+43. David Lewis (1979), "Scorekeeping in a Language Game," *Journal of Philosophical Logic*, 8(1), 337–359.
+44. Pierre Bourdieu (1977), *Outline of a Theory of Practice*. Cambridge University Press.
+45. Erving Goffman (1974), *Frame Analysis: An Essay on the Organization of Experience*. Harvard University Press.
+46. Thomas S. Kuhn (1962/1970), *The Structure of Scientific Revolutions*. University of Chicago Press.
 
 ## E6. Restored corpus records requiring bibliographic completion
 
@@ -2214,15 +1836,15 @@ The original wording is also ambiguous about whether "Monster Energy" refers to 
 37. David A. Spencer (2014), "Conceptualising Work in Economics: Negating a Disutility," *Kyklos*, 67(2), 280–294 (May 2014). https://ideas.repec.org/a/bla/kyklos/v67y2014i2p280-294.html [Verified in V9.1 against the RePEc abstract — verbatim: "This paper starts from the premise that economics has offered a one-sided conception of work." Flag removed.]
 38. Andrew Hill and Col. Heath Niemi, USA (2017), "The Trouble with Mission Command: Flexive Command and the Future of Command and Control," *Joint Force Quarterly*, 86 (3rd Quarter 2017), 94–100. https://ndupress.ndu.edu/Portals/68/Documents/jfq/jfq-86/jfq-86_94-100_Hill-Niemi.pdf [Verified in V9.1 — verbatim: "Mission command is presented as a premise of effective command." Flag removed.]
 39. *United States v. Louisiana*, 389 U.S. 155 (1967) (Harlan, J., dissenting). https://supreme.justia.com/cases/federal/us/389/155/ [Verified in V9.1 against the opinion text — at 164: "The major premise of the majority's reasoning is, I believe, demonstrably wrong"; at 176: "The premise of this contention is sound... But the conclusion drawn from this premise by no means follows." Flag removed.]
-40. UK Foreign and Commonwealth Office (2016), *Travel Advice Review*. [CITATION NEEDED — flag retained after verification. Date discrepancy: the verifiable record dates the FCO's Travel Advice review to 2004; Sir Philip Barton's UK Covid-19 Inquiry witness statement describes the FCO applying "specific principles... in accordance with the FCO's Travel Advice review, which was published in 2004 ('TA 2004')," and no public 2016 iteration has been located. Either the corpus date is wrong (2004) or the reference is to an internal 2016 review that was never published; the premise quotation remains unconfirmed. Resolution requires locating the document in the V5 source materials or replacing/re-coding §3.4 item 11.]
-41. Col. Brian J. Reed, U.S. Army (2017), "Leader Development, Learning Agility, and the Army Profession," *Journal of Military Learning*, April 2017 Edition — a reprint, published with the Institute of Land Warfare's permission, of AUSA *Land Warfare Paper* No. 92 (October 2012); the underlying 2012 USAWC paper is DTIC ADA592822 (1 May 2012). Reprint locator: https://www.armyupress.army.mil/Journals/Journal-of-Military-Learning/Journal-of-Military-Learning-Archives/April-2017-Edition/Leader-Development-Learning-Agility-and-the-Army-Profession; verified-text anchor (2012 original): https://apps.dtic.mil/sti/tr/pdf/ADA592822.pdf. [Verified in V9.1 with a citation-precision caveat: the premise sentence is confirmed verbatim in both the 2012 original and the JML reprint. The 2017 attribution is defensible only as a reprint citation: cite the JML page with the 2012 original as the verified-text anchor. Externally cited JML pagination is 92–113; confirm against the edition PDF before citing page numbers in print. Flag removed.]
-42. Van Meurs et al. (2022). [CITATION NEEDED — flag retained; unverifiable as named: no publication matching this name, year, and subject matter is recoverable from any database searched in the V9.1 audit (six distinct search angles); the only 2022 "van Meurs" publication located is a topically unrelated conversation-analysis study in *BMC Palliative Care*. The name is likely misremembered in the operational instructions. No finding is attributed to it; F7's counter-evidence status rests on Folkes (1985) (Appendix E2 #13), which is verified.]
+40. UK Foreign and Commonwealth Office (2016), *Travel Advice Review*. [CITATION NEEDED — flag retained after verification. Date discrepancy: the verifiable record dates the FCO's Travel Advice review to 2004; Sir Philip Barton's UK Covid-19 Inquiry witness statement describes the FCO applying "specific principles... in accordance with the FCO's Travel Advice review, which was published in 2004 ('TA 2004')," and no public 2016 iteration has been located. Either the corpus date is wrong (2004) or the reference is to an internal 2016 review that was never published; the premise quotation remains unconfirmed.]
+41. Col. Brian J. Reed, U.S. Army (2017), "Leader Development, Learning Agility, and the Army Profession," *Journal of Military Learning*, April 2017 Edition — a reprint, published with the Institute of Land Warfare's permission, of AUSA *Land Warfare Paper* No. 92 (October 2012); the underlying 2012 USAWC paper is DTIC ADA592822 (1 May 2012). Reprint locator: https://www.armyupress.army.mil/Journals/Journal-of-Military-Learning/Journal-of-Military-Learning-Archives/April-2017-Edition/Leader-Development-Learning-Agility-and-the-Army-Profession; verified-text anchor (2012 original): https://apps.dtic.mil/sti/tr/pdf/ADA592822.pdf. [Verified in V9.1 with a citation-precision caveat: the premise sentence is confirmed verbatim in both the 2012 original and the JML reprint. Flag removed.]
+42. Van Meurs et al. (2022). [CITATION NEEDED — flag retained; unverifiable as named: no publication matching this name, year, and subject matter is recoverable from any database searched in the V9.1 audit. No finding is attributed to it; F7's counter-evidence status rests on Folkes (1985) (Appendix E2 #13), which is verified.]
 
-The operational instructions state that the missing corpus locators are present in the source materials, but they are not present in the supplied V5 file. They are not reconstructed here. In V9.1, entries #35–39 and #41 were completed from the source-verification audit; #40 (FCO) and #42 (Van Meurs) remain flagged with diagnostic notes. The corresponding rows remain in the §3.4 table so that the corpus is structurally complete while its remaining bibliographic gaps stay visible.
+The operational instructions state that the missing corpus locators are present in the source materials, but they are not present in the supplied V5 file. They are not reconstructed here. In V9.1, entries #35–39 and #41 were completed from the source-verification audit; #40 (FCO) and #42 (Van Meurs) remain flagged with diagnostic notes.
 
 ## E7. Reading note
 
-The paper uses sources for different purposes. Institutional documents illustrate actual language use; philosophical works establish and contest conceptual positions; experimental studies establish effects under defined conditions. A source supporting one level should not be cited as though it established another. In particular, studies of presupposition, normative wording, source credibility, and institutional legitimacy do not directly prove that the isolated words *premise* and *reason* increase perceived legitimacy. They motivate and constrain the proposed experiments. The reproduced texts in §§3.2, 4.2, and 5.2 carry their own reference fragments, retained as part of the reproduced record; those fragments are not treated as the paper's own citations.
+The paper uses sources for different purposes. Institutional documents illustrate actual language use; philosophical works establish and contest conceptual positions; experimental studies establish effects under defined conditions. A source supporting one level should not be cited as though it established another. In particular, studies of presupposition, normative wording, source credibility, and institutional legitimacy do not directly prove that the isolated words *premise* and *reason* increase perceived legitimacy. They motivate and constrain the proposed experiments. The Coda cites its sources for a reading, not a finding: Stalnaker (1970; 2002) and Lewis (1979) supply the common-ground vocabulary; Bourdieu (1977), Goffman (1974), and Kuhn (1962/1970) supply the frame vocabulary; Langer et al. (1978), Folkes (1985), and Thoma et al. (2023) are the adjacent evidence already registered under F7. None is cited as establishing what the Coda states. The Duhem–Quine problem (§5.5a) is sourced in Duhem (1906/1954) and Quine (1951), which are named in the body but not otherwise relied upon: the paper's argument does not depend on them, and the reader who requires a fuller treatment is directed to the sources.
 
 ---
 
@@ -2230,56 +1852,41 @@ The paper uses sources for different purposes. Institutional documents illustrat
 
 ## F1. Source integrity
 
-Each of the three source files was received as an independent file. The files have been preserved in their original form and are the reference against which the reproduced texts in §§3.2, 4.2, and 5.2 are checked.
+Each of the two source files was received as an independent file. The files have been preserved in their original form and are the reference against which the reproduced texts in §§3.2 and 4.2 are checked.
 
 | Source file | Status |
 |---|---|
 | `premise.txt` | Preserved; reproduced in §3.2 with heading markup demoted two levels, image placeholders removed, and the dialogical register removed |
 | `reason.txt` | Preserved; reproduced in §4.2 with heading markup demoted two levels, image placeholders removed, and the dialogical register removed |
-| `karl popper falsification.txt` | Preserved; reproduced in §5.2 with heading markup demoted two levels, image placeholders removed, three `\\[ ... \\]` blocks converted to `$$ ... $$`, and the dialogical register removed |
-
-Byte-level hashes are not published, because different normalization methods produce different values and the relevant evidence is the comparison, not the hash.
 
 ## F2. Manuscript integrity
 
-The reproduced texts in §§3.2, 4.2, and 5.2 were compared with the source files after four changes: line-ending normalization; the presentation-level markup changes (heading demotion and display-math conversion) disclosed in the Note on the Texts; the removal of the image-placeholder artefacts; and the removal of the dialogical register.
+The reproduced texts in §§3.2 and 4.2 were compared with the source files after three changes: line-ending normalization; the presentation-level markup change (heading demotion) disclosed in the Note on the Texts; the removal of the image-placeholder artefacts; and the removal of the dialogical register.
 
 The image-placeholder artefacts removed were:
 
 - `premise.txt`: one favicon link and caption before the etymology bullet; one before the introduction definition; one after the terminological qualification.
-- `reason.txt`: the equivalent artefacts in its lexicon section (after the Oxford distinguishes sentence; after the reasons-for-action passage; after the three-functions table).
-- `karl popper falsification.txt`: the equivalent artefacts throughout its historical reconstruction.
-
-None of the removed artefacts is part of the argument, and none is treated as evidence.
+- `reason.txt`: the equivalent artefacts in its lexicon section.
 
 The dialogical register removed consisted of:
 
-- Second-person address to an interlocutor: "your position," "you mentioned," "your rhetorical and epistemological criticism," "your preferred methodology," "your previous arguments," "your preference."
-- First-person formulations of counsel: "I think," "my interpretation," "my initial conclusion," "I would distinguish," "I would formulate," "I agree with," "I would not reject," "I would strongly endorse," "I would make one refinement."
-- Framing of the text as a reply to a specific position already stated: "Here I agree with an important part of your position," "This is where I think your argument becomes particularly relevant," "This is precisely the distinction we discussed."
+- Second-person address to an interlocutor.
+- First-person formulations of counsel.
+- Framing of the text as a reply to a specific position already stated.
 
-These constructions were replaced with declarative statements of the same content. The examples, qualifications, order, and conclusions are unchanged. The argument is the author's; only the address has been removed. A reader who compares the source files with §§3.2, 4.2, and 5.2 will find the same arguments, the same examples, and the same conclusions; the difference is that the texts now stand as assertions rather than as counsel.
+These constructions were replaced with declarative statements of the same content. The examples, qualifications, order, and conclusions are unchanged. A reader who compares the source files with §§3.2 and 4.2 will find the same arguments, the same examples, and the same conclusions; the difference is that the texts now stand as assertions rather than as counsel.
 
 ## F3. What the integrity record does not claim
 
-The record does not claim that the reproduced texts are verbatim copies of the source files. The removal of the dialogical register is a substantive revision: the wording has changed where the register required it. The record claims that the substantive content — the argument, the examples, the qualifications, the order, and the conclusions — is preserved, and that the changes applied are exactly the four disclosed.
-
-The record does not claim that the reproduced texts are free from error in the source files themselves. It does not claim that the source files' own reference fragments are verifiable. It does not claim that the paper endorses every proposition in the reproduced texts; the supplementary analysis is where qualifications and disputes are recorded.
+The record does not claim that the two reproduced texts are verbatim copies of the source files. The removal of the dialogical register is a substantive revision: the wording has changed where the register required it. The record claims that the substantive content — the argument, the examples, the qualifications, the order, and the conclusions — is preserved.
 
 ## F4. What would count as a failure of integrity
 
-A failure of integrity would be any of the following:
-
-- A reproduced text whose substantive content — argument, examples, qualifications, order, conclusions — differs from its source.
-- An undisclosed change.
-- A disclosure that does not match what was actually done.
-- A claim of comparison that was not made.
-
-If any of these is found, the manuscript must be revised, and the disclosures in the Note on the Texts must be corrected.
+A failure of integrity would be any of the following: a reproduced text whose substantive content — argument, examples, qualifications, order, conclusions — differs from its source; an undisclosed change; a disclosure that does not match what was actually done; a claim of comparison that was not made.
 
 ## F5. Source-verification audit (V9.1)
 
-V9.1 applies the results of an external source-verification audit to V9.0's citation apparatus. The audit concerned the ten sources flagged in V9.0: the seven corpus items whose locators were absent from the supplied V5 file (§3.4 items 2–4 and 11–14), the two §5.8 gatekeeping references (register entries #21–22), and the F7 counter-evidence entry (register entry #42). Candidates were located through eight rounds of database and full-text searching and verified against the published texts.
+V9.1 applies the results of an external source-verification audit to V9.0's citation apparatus. The audit concerned the ten sources flagged in V9.0. Candidates were located through eight rounds of database and full-text searching and verified against the published texts.
 
 Outcome:
 
@@ -2288,16 +1895,26 @@ Outcome:
 3. **Diagnosed with a date discrepancy; flag retained (1):** FCO (2016).
 4. **Unverifiable as named; flag retained (1):** Van Meurs et al. (2022).
 
-Remaining gaps: FCO (2016); Van Meurs et al. (2022); Reed (2017) pagination confirmation.
+## F6. Revision records (V10.0 through V15.3)
 
-## F6. Revision records (V10.0 and V10.1)
+**V10.0 — methodological revision.** Structural revisions to the body: §1.1 presents the three cases before the abstract statement; §1.3 states the four-question discipline in prose before the table; §2.2 carries the maxim before the formulation; §3.5 narrates the House of Lords case as six questions; §3.6.2 adds two aphorisms; §5.9 states the level-sensitive ladder in prose before the table; §6.8 groups the evidence summary by what is shown; §7.4 adds the conditions of surrender as engagements prose. The image placeholders were removed and disclosed; a consolidated Note on the Texts was placed at the front.
 
-**V10.0 — methodological revision.** Structural revisions to the body: §1.1 presents the three cases before the abstract statement; §1.3 states the four-question discipline in prose before the table; §2.2 carries the maxim before the formulation; §2.6 corrects the wording to "two specified extensions — H1a and H1b — and one specified research question, RQ3"; §3.5 narrates the House of Lords case as six questions with the counter-reading as the sixth; §3.6.2 adds two aphorisms; §3.7 adds the Monster Energy moral; §5.9 states the level-sensitive ladder in prose before the table; §6.8 groups the evidence summary by what is shown; §7.4 adds the conditions of surrender as engagements prose. The image placeholders were removed and disclosed as the third presentation-level normalization; a consolidated Note on the Texts was placed at the front. No content from external traditions was imported.
+**V10.1 — dialogical register removed.** The second-person address, the first-person formulations of counsel, and the framing of each text as a reply were replaced with declarative statements. The integrity claim is revised accordingly: the texts are not claimed to be verbatim; they are claimed to preserve the substantive content under the four disclosed changes.
 
-**V10.1 — dialogical register removed.** The second-person address to an interlocutor, the first-person formulations of counsel, and the framing of each text as a reply to a specific position have been replaced with declarative statements of the same content. The changes affect §§3.2, 4.2, and 5.2 and the disclosures in the Note on the Texts, Appendix F.1, and Appendix F.2. The substantive content — examples, qualifications, order, and conclusions — is unchanged. The integrity claim is revised accordingly: the texts are not claimed to be verbatim; they are claimed to preserve the substantive content under the four disclosed changes.
+**V11.0 — argumentative revision.** The contested claims are stated in the indicative. §1.1 is replaced with the thesis statement. §1.5 is replaced with the direct falsifiability critique. §2.1 is replaced with the four-status table. F10 is added. §3.6 is retitled "Premise-laundering: the procedural mechanism" and its opening is replaced with the named definition. §3.6.1's introduction is replaced with the derivation of the four burdens. §5.4 is replaced with the direct argument on Popper's developed position. §5.9 is replaced with the level-sensitive framework as positive contribution. §8.4 is added on asymmetry. §8.5 is added on consequences. §9 is updated. §7.4 is updated with defeaters for F10.
 
-The verified apparatus (Locator Key; register entries E3 #21–22 and E6 #35–42; the Van Meurs, FCO, and Reed diagnostic notes), the findings table, the three-tier vocabulary, the four burdens, the five inferences, the split hypotheses, the interpretation tables, and the level-sensitive ladder are preserved as in V9.1. The §2.6 wording correction is the only change to this apparatus, and it fixes an internal inconsistency rather than altering the underlying claims.
+**V12.0 — claim-status revision.** The paper's contested claims are now stated at the strength its evidence can bear. §1.1 is reformulated as a typological thesis (not a statistical one). §1.5 is replaced with the philosophical framing of the falsifiability critique. The dominant reading is named in §1.5. §2.1 splits F9 into F9a (positioning, established), F9b (burden-shift, argued), and F9c (removal, argued), and restates F10 as a philosophical claim. §2.6 adds the correspondence between H1a's two components and the argued findings. §3.6 is retitled "Premise-laundering: the three components" and restructured around the three components. §3.9 is updated. §5.4 is replaced with the five-move argument. §5.8 is demoted to a note on institutional practice. §7.4 replaces defeaters 9–10 with five new defeaters (F9b, F9c, and three for F10). §8.4 makes the asymmetry conditional. §8.5 marks all four consequences as suggestions with scope. §9 reflects the changes. Appendix F6 is added.
+
+**V13.0 — Popper section synthesised.** §5.2 is the author's authorial prose rather than a reproduction; the Popper source file is no longer reproduced. The two reproduced texts (§§3.2, 4.2) and the integrity apparatus cover the premise and reason texts only. Appendix F6 is removed; the present F6 restores the record. §5.1, §5.3, §5.7, §5.10, §1.1, §2.4, and §7.7 carry the corresponding adjustments.
+
+**V14.0 — the accommodation coda added as §10.** A proposed framework for reading F9b and F9c, marked as a proposal and specifying RQ4 and its protocol. Six touches to the main body: a forward cross-reference in §6.4; a seventh stratum in §2.4; a pointer to RQ4 in §2.6; a thirteenth defeater in §7.4; Lewis (1979) added to Appendix E5; and the RQ4 protocol as Appendix C5. No protected text, corpus, hypothesis, protocol, or finding is altered.
+
+**V14.2 — the Coda.** §10 is converted to a Coda between §9 and the appendices. The stronger reading of premise-laundering (charm, accommodation, frame) is stated as a reading and not claimed, with forward references in §1.6, §2.4, §3.6.3, §6.4, §7.4, §7.7, and §8.4, and four reference-register entries (Appendix E5 #43–46). The register ladder of §2.4 gains one rung: established; argued; specified; stated. No finding, hypothesis, defeater, or interpretive rule is changed. The Coda is subject to the deletion test: remove it, and the paper stands.
+
+**V15.0 — three integrations from V14.0.** The substance is V14.2's. Coda 1 gains one clarifying sentence on the relation between "no evidential weight as stated" and "if established the body is not untouched." Coda 3's pricing table gains three concrete measures for the accommodation strength — the RQ4 of an earlier draft — without formalizing them as a research question. Appendix E5 gains a head note on the numbering across E5 and E6. No finding, hypothesis, defeater, interpretive rule, register entry, forward reference, or reference entry is altered. The Coda remains subject to the deletion test and the promotion rule (Coda 4).
+
+**V15.3 — Part III completed; §10 references reconciled.** Four integrations: (1) V14.0's three measures, folded into Coda 3's pricing table; (2) Coda 1's clarifying sentence; (3) Appendix E5's head note; and (4) the Part III bridges — the Duhem–Quine problem (new §5.5a), Kuhn and Lakatos named in §5.10, Popper's historical motivation in §5.2, and a three-position summary table in §5.7 — which restore what V13's reproduced Popper text had and V14.2's synthesis dropped. V14.2's references to the removed §10, RQ4, and Appendix C5 are reconciled: §6.4 and §6.7 now point to the Coda or to a future direct measure; §7.8 now points to Coda 3; §2.4's count is corrected from five to six (plus the Coda's seventh); Appendix B2's RQ4/C5 sentence is replaced with a pointer to Coda 3; Appendix B8 is retitled "Limits of the Coda." The version line discloses these reconciliations rather than claiming that no forward reference is altered. The V10–V12 revision history is preserved above; the full text of V12's original F6 is in the V12 file.
 
 ---
 
-*End of V10.1.*
+*End of V15.3.*
